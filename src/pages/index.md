@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Board game news and reviews
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Board game news and reviews
+subheading: The latest in tabletop gaming
 mainpitch:
   title: Why Kaldi
   description: >
