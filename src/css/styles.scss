@@ -1,6 +1,11 @@
 @import "./imports/functions";
-@import "./imports/fonts";
 @import "./imports/variables";
 
+@import "./base/reset";
+@import "./base/typography";
+@import "./base/layout";
+
 @import "./components/header.scss";
+@import "./components/navbar.scss";
 @import "./components/hero.scss";
+@import "./components/featured.scss";

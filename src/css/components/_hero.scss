@@ -1,0 +1,19 @@
+.hero {
+  position: relative;
+  text-align: center;
+  color: $white;
+  background-color: $black;
+  padding: 1rem;
+  display: flex;
+  place-items: center;
+
+  @media (min-width: $lg) {
+    min-height: 30rem;
+  }
+}
+
+.hero__subheading {
+  @media (min-width: $md) {
+    font-size: 1.8rem;
+  }
+}

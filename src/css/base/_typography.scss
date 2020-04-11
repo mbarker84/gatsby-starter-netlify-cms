@@ -1,0 +1,34 @@
+body {
+  font-family: "Eczar", serif;
+
+  @media (min-width: $lg) {
+    font-size: 1.2rem;
+  }
+
+  @media (min-width: $xl) {
+    font-size: 1.3rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.heading-1,
+.heading-2,
+.heading-3 {
+  font-family: "Bitter", serif;
+}
+
+h1,
+.heading-1 {
+  @media (min-width: $md) {
+    font-size: 3rem;
+  }
+
+  @media (min-width: $lg) {
+    font-size: 4rem;
+    line-height: 1.2;
+  }
+}

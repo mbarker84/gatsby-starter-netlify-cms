@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  max-width: 80rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin: 0 auto;
+
+  @media (min-width: $md) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+.container-sm {
+  width: 100%;
+  max-width: 62rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin: 0 auto;
+
+  @media (min-width: $md) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}

@@ -4,65 +4,39 @@ import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
+import FeaturedArticle from "../components/FeaturedArticle";
 
 // Global styles
 import "../css/styles.scss";
 
-export const IndexPageTemplate = ({
-  image,
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
-}) => (
-  <div className="">
-    <div className="hero">
-      <div className="wrapper">
-        <h1>{title}</h1>
-        <p>{subheading}</p>
-      </div>
-    </div>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">Latest</h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
-              </div>
+export const IndexPageTemplate = ({ posts }) => {
+  const featuredPost = posts[0].node;
+
+  return (
+    <div>
+      <FeaturedArticle
+        title={featuredPost.frontmatter.title}
+        excerpt={featuredPost.excerpt}
+        slug={featuredPost.fields.slug}
+        date={featuredPost.frontmatter.date}
+        featuredImage={featuredPost.frontmatter.featuredimage}
+      ></FeaturedArticle>
+      <section>
+        <div className="container-sm">
+          <div>
+            <h3>Latest</h3>
+            <BlogRoll />
+            <div>
+              <Link className="btn" to="/blog">
+                Read more
+              </Link>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-  </div>
-);
+      </section>
+    </div>
+  );
+};
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -72,24 +46,17 @@ IndexPageTemplate.propTypes = {
   mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+    blurbs: PropTypes.array
+  })
 };
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
+  const { edges: posts } = data.allMarkdownRemark;
 
   return (
     <Layout>
-      <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
-      />
+      <IndexPageTemplate posts={posts} />
     </Layout>
   );
 };
@@ -97,9 +64,9 @@ const IndexPage = ({ data }) => {
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
-    }),
-  }),
+      frontmatter: PropTypes.object
+    })
+  })
 };
 
 export default IndexPage;
@@ -136,6 +103,33 @@ export const pageQuery = graphql`
           }
           heading
           description
+        }
+      }
+    }
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 400)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            templateKey
+            date(formatString: "MMMM DD, YYYY")
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 120, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
         }
       }
     }

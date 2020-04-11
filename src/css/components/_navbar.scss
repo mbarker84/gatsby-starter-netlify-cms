@@ -1,0 +1,26 @@
+.navbar__content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  font-family: "Bitter", serif;
+}
+
+.navbar__logo-wrapper {
+  font-weight: 700;
+
+  a {
+    color: $black;
+    display: block;
+    padding: 1rem 1rem 1rem 0;
+    text-decoration: none;
+    font-size: 1.6rem;
+
+    @media (min-width: $md) {
+      font-size: 2.2rem;
+    }
+  }
+}
+
+.navbar__items {
+  margin-left: auto;
+}

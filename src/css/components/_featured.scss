@@ -1,0 +1,43 @@
+.featured {
+  position: relative;
+  color: $white;
+  background-color: $black;
+  padding: 2rem 0;
+  display: flex;
+  place-items: center;
+
+  a {
+    color: $white;
+  }
+
+  @media (min-width: $lg) {
+    min-height: 30rem;
+    padding: 4rem 0;
+  }
+}
+
+.featured__title {
+  margin: 0 0 1rem 0;
+}
+
+.featured__sm-title {
+  margin: 0 0 2rem 0;
+}
+
+.featured__heading {
+  margin: 0 0 2rem 0;
+
+  @media (min-width: $lg) {
+    margin: 0 0 3rem 0;
+  }
+}
+
+.featured__content {
+  max-width: 85ch;
+}
+
+.featured__body {
+  @media (min-width: $md) {
+    font-size: 1.4rem;
+  }
+}
