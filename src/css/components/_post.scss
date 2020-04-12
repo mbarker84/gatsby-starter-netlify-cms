@@ -1,0 +1,26 @@
+.post__desc {
+  font-size: 1.1rem;
+  padding: 0 0 1rem 0;
+  border-bottom: 2px solid;
+  max-width: 55ch;
+  margin: 1rem 0 0 0;
+
+  @media (min-width: $md) {
+    font-size: 1.7rem;
+    color: $primary;
+    line-height: 1.5;
+    margin: 2rem 0 0 0;
+  }
+}
+
+.post__title {
+  margin: 0 0 1rem 0;
+}
+
+.post__header-content {
+  padding: 1rem 0 0 0;
+
+  @media (min-width: $md) {
+    padding: 4rem 0 1rem 0;
+  }
+}

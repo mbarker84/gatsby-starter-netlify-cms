@@ -18,13 +18,15 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <article>
+    <article className="post">
       {helmet || ""}
-      <header>
-        <div className="container">
-          <h1>{title}</h1>
-          <time datetime={date}>{date}</time>
-          <p>{description}</p>
+      <header className="post__header">
+        <div className="post__header-content">
+          <div className="container">
+            <h1 className="post__title">{title}</h1>
+            <time datetime={date}>{date}</time>
+            <p className="post__desc">{description}</p>
+          </div>
         </div>
       </header>
       <div className="container-sm">
