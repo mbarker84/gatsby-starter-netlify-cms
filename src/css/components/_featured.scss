@@ -4,10 +4,6 @@
   background-color: $black;
   overflow: hidden;
 
-  a {
-    color: $white;
-  }
-
   &::after {
     position: absolute;
     display: block;
@@ -16,7 +12,15 @@
     width: 100%;
     height: 100%;
     content: "";
-    background: rgba(0, 0, 0, 0.4);
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3));
+  }
+}
+
+.featured--no-image {
+  background: linear-gradient(45deg, $primary, $secondary);
+
+  &::after {
+    display: none;
   }
 }
 

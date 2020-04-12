@@ -4,7 +4,7 @@ import "../css/styles.scss";
 
 const Navbar = () => {
   return (
-    <header>
+    <header className="navbar">
       <nav className="container" aria-label="main-navigation">
         <div className="navbar__content">
           <div className="navbar__logo-wrapper">

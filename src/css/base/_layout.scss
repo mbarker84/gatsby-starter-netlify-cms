@@ -1,3 +1,11 @@
+.main {
+  padding-top: 3.5rem;
+
+  @media (min-width: $md) {
+    padding-top: 5rem;
+  }
+}
+
 .container {
   width: 100%;
   max-width: 80rem;
@@ -21,5 +29,15 @@
   @media (min-width: $md) {
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+}
+
+.section {
+  --pad: 2rem;
+  padding-top: var(--pad);
+  padding-bottom: var(--pad);
+
+  @media (min-width: $md) {
+    --pad: 4rem;
   }
 }

@@ -6,50 +6,42 @@ import PreviewCompatibleImage from "./PreviewCompatibleImage";
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    let { edges: posts } = data.allMarkdownRemark;
+
+    posts = posts.filter((el, index) => index !== 0);
 
     return (
-      <div className="columns is-multiline">
+      <ul className="blog-list">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? "is-featured" : ""
-                }`}
-              >
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <h3>
-                    <Link className="" to={post.fields.slug}>
-                      {post.frontmatter.title}
-                    </Link>
+            <li className="blog-list__item" key={post.id}>
+              <article className="blog-list__article">
+                {post.frontmatter.featuredimage ? (
+                  <div className="blog-list__img-wrapper">
+                    <PreviewCompatibleImage
+                      imageInfo={{
+                        image: post.frontmatter.featuredimage,
+                        alt: `featured image thumbnail for post ${post.frontmatter.title}`
+                      }}
+                    />
+                  </div>
+                ) : null}
+                <div>
+                  <h3 className="blog-list__post-heading">
+                    <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
                   </h3>
                   <time datetime={post.frontmatter.date}>
                     {post.frontmatter.date}
                   </time>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
+                  <p>{post.excerpt}</p>
+                  <Link className="link link--secondary" to={post.fields.slug}>
                     Keep Reading →
                   </Link>
-                </p>
+                </div>
               </article>
-            </div>
+            </li>
           ))}
-      </div>
+      </ul>
     );
   }
 }

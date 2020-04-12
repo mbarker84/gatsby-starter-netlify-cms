@@ -1,0 +1,13 @@
+body {
+  background-color: $bg;
+  color: $text;
+}
+
+a {
+  transition: color 200ms;
+
+  &:hover,
+  &:focus {
+    color: $secondary;
+  }
+}

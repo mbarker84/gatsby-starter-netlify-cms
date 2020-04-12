@@ -10,7 +10,7 @@ import FeaturedArticle from "../components/FeaturedArticle";
 import "../css/styles.scss";
 
 export const IndexPageTemplate = ({ posts }) => {
-  const featuredPost = posts[1].node;
+  const featuredPost = posts[0].node;
 
   return (
     <div>
@@ -21,7 +21,7 @@ export const IndexPageTemplate = ({ posts }) => {
         date={featuredPost.frontmatter.date}
         featuredImage={featuredPost.frontmatter.featuredimage}
       ></FeaturedArticle>
-      <section>
+      <section class="section">
         <div className="container-sm">
           <div>
             <BlogRoll />

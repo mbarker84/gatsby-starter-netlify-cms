@@ -1,3 +1,17 @@
+.navbar {
+  background-color: $white;
+  color: $primary;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  height: 4rem;
+  box-shadow: 0 0.1rem 0.75rem rgba(0, 0, 0, 0.15);
+
+  @media (min-width: $md) {
+    height: 5rem;
+  }
+}
+
 .navbar__content {
   display: flex;
   flex-wrap: wrap;
@@ -9,7 +23,6 @@
   font-weight: 700;
 
   a {
-    color: $black;
     display: block;
     padding: 1rem 1rem 1rem 0;
     text-decoration: none;

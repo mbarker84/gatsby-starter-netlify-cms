@@ -2,6 +2,7 @@
 @import "./imports/variables";
 
 @import "./base/reset";
+@import "./base/base";
 @import "./base/typography";
 @import "./base/layout";
 
@@ -9,3 +10,4 @@
 @import "./components/navbar.scss";
 @import "./components/hero.scss";
 @import "./components/featured.scss";
+@import "./components/blog-list.scss";

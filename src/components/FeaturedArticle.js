@@ -21,11 +21,10 @@ const renderImage = (image, title) => {
 
 const FeaturedArticle = props => {
   const { title, featuredImage, date, slug, excerpt } = props;
-
-  console.log(featuredImage);
+  const style = featuredImage ? "featured" : "featured featured--no-image";
 
   return (
-    <article className="featured">
+    <article className={style}>
       {renderImage(featuredImage, title)}
       <div className="container">
         <div className="featured__content">
@@ -38,7 +37,9 @@ const FeaturedArticle = props => {
           </div>
           <div className="featured__body">
             <p>{excerpt}</p>
-            <Link to={slug}>Read more</Link>
+            <Link to={slug} className="link">
+              Read more
+            </Link>
           </div>
         </div>
       </div>

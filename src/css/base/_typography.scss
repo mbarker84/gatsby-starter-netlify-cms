@@ -17,7 +17,8 @@ h4,
 h5,
 .heading-1,
 .heading-2,
-.heading-3 {
+.heading-3,
+.link {
   font-family: "Bitter", serif;
 }
 
@@ -30,5 +31,34 @@ h1,
   @media (min-width: $lg) {
     font-size: 4rem;
     line-height: 1.2;
+  }
+}
+
+h3,
+.heading-3 {
+  @media (min-width: $md) {
+    font-size: 1.5rem;
+  }
+
+  @media (min-width: $lg) {
+    font-size: 1.9rem;
+  }
+}
+
+.link {
+  font-weight: bold;
+  display: inline-block;
+}
+
+.link--primary {
+  color: $primary;
+}
+
+.link--secondary {
+  color: $secondary;
+
+  &:hover,
+  &:focus {
+    color: $primary;
   }
 }
