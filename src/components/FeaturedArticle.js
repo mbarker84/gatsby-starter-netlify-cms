@@ -26,8 +26,8 @@ const FeaturedArticle = props => {
 
   return (
     <article className="featured">
+      {renderImage(featuredImage, title)}
       <div className="container">
-        {renderImage(featuredImage, title)}
         <div className="featured__content">
           <h3 className="featured__sm-title">Latest</h3>
           <div className="featured__heading">

@@ -10,7 +10,7 @@ import FeaturedArticle from "../components/FeaturedArticle";
 import "../css/styles.scss";
 
 export const IndexPageTemplate = ({ posts }) => {
-  const featuredPost = posts[0].node;
+  const featuredPost = posts[1].node;
 
   return (
     <div>
@@ -24,7 +24,6 @@ export const IndexPageTemplate = ({ posts }) => {
       <section>
         <div className="container-sm">
           <div>
-            <h3>Latest</h3>
             <BlogRoll />
             <div>
               <Link className="btn" to="/blog">
