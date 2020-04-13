@@ -1,10 +1,15 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+
+const getSortedPrices = prices => {
+  const sortedPrices = prices.map(el => el.price).sort((a, b) => a - b);
+  return sortedPrices[0];
+};
 
 export const BlogPostTemplate = ({
   content,
@@ -16,6 +21,27 @@ export const BlogPostTemplate = ({
   date
 }) => {
   const PostContent = contentComponent || Content;
+  const [gameInfo, setGameInfo] = useState(0);
+  const [name, setName] = useState(0);
+  const [price, setPrice] = useState(0);
+  const [url, setUrl] = useState(0);
+  const [currency, setCurrency] = useState(0);
+
+  const id = 12;
+
+  useEffect(() => {
+    fetch(`https://boardgameprices.co.uk/api/info?id=${id}`)
+      .then(response => response.json())
+      .then(data => {
+        setGameInfo(data);
+        setName(data.items[0].name);
+        setPrice(getSortedPrices(data.items[0].prices));
+        setUrl(data.items[0].url);
+        setCurrency(data.currency);
+      });
+  }, []);
+
+  console.log(gameInfo);
 
   return (
     <article className="post">
@@ -24,6 +50,11 @@ export const BlogPostTemplate = ({
         <div className="post__header-content">
           <div className="container">
             <h1 className="post__title">{title}</h1>
+            <h2>
+              <a href={url} rel="noopener noreferrer">
+                {name}: {price} {currency}
+              </a>
+            </h2>
             <time datetime={date}>{date}</time>
             <p className="post__desc">{description}</p>
           </div>
