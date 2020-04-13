@@ -32,32 +32,29 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
-  date
+  date,
+  gameID
 }) => {
   const PostContent = contentComponent || Content;
-  const [gameInfo, setGameInfo] = useState(null);
   const [name, setName] = useState(null);
   const [price, setPrice] = useState(null);
   const [url, setUrl] = useState(null);
   const [currency, setCurrency] = useState(null);
   const [hasData, setHasData] = useState(false);
 
-  const id = 12;
-
   useEffect(() => {
-    fetch(`https://boardgameprices.co.uk/api/info?id=${id}`)
-      .then(response => response.json())
-      .then(data => {
-        setGameInfo(data);
-        setName(data.items[0].name);
-        setPrice(getSortedPrices(data.items[0].prices));
-        setUrl(data.items[0].url);
-        setCurrency(data.currency);
-        setHasData(true);
-      });
+    if (gameID) {
+      fetch(`https://boardgameprices.co.uk/api/info?id=${gameID}`)
+        .then(response => response.json())
+        .then(data => {
+          setName(data.items[0].name);
+          setPrice(getSortedPrices(data.items[0].prices));
+          setUrl(data.items[0].url);
+          setCurrency(data.currency);
+          setHasData(true);
+        });
+    }
   }, []);
-
-  console.log(gameInfo);
 
   return (
     <article className="post">
@@ -108,7 +105,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-  const { date, description, title, tags } = post.frontmatter;
+  const { date, description, title, tags, gameID } = post.frontmatter;
 
   return (
     <Layout>
@@ -125,6 +122,7 @@ const BlogPost = ({ data }) => {
         tags={tags}
         title={title}
         date={date}
+        gameID={gameID}
       />
     </Layout>
   );
@@ -148,6 +146,7 @@ export const pageQuery = graphql`
         title
         description
         tags
+        gameID
       }
     }
   }
