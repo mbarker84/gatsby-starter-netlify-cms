@@ -1,0 +1,15 @@
+.footer {
+  padding: 1rem 0;
+  background-color: darken($bg, 10%);
+
+  small {
+    margin: 0;
+  }
+}
+
+.footer__content {
+  @media (min-width: $md) {
+    display: flex;
+    justify-content: space-between;
+  }
+}
