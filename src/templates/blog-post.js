@@ -6,23 +6,42 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-const getSortedPrices = prices => {
+const getLowestPrice = prices => {
   const sortedPrices = prices.map(el => el.price).sort((a, b) => a - b);
   return sortedPrices[0];
 };
 
-const renderGameInfo = (hasData, url, name, price, currency) => {
-  if (hasData) {
-    return (
-      <h2>
-        <a href={url} rel="noopener noreferrer">
-          {name}: {price} {currency}
-        </a>
-      </h2>
-    );
-  } else {
-    return <h2>Fetching latest prices...</h2>;
+const gameContent = (item, currency) => {
+  const { name, prices, url } = item;
+
+  return (
+    <span>
+      Lowest price for {name}:{" "}
+      <a href={url} rel="noreferrer noopener">
+        {getLowestPrice(prices)}
+        {currency}
+      </a>
+    </span>
+  );
+};
+
+const renderGames = (items, currency) => {
+  if (!items.length) return;
+
+  if (items.length > 1) {
+    const list = items.map(item => {
+      const { name } = item;
+      return (
+        <li key={name} className="heading-3">
+          {gameContent(item, currency)}
+        </li>
+      );
+    });
+
+    return <ul>{list}</ul>;
   }
+
+  return <h4 className="heading-3">{gameContent(items[0])}</h4>;
 };
 
 export const BlogPostTemplate = ({
@@ -36,22 +55,16 @@ export const BlogPostTemplate = ({
   gameID
 }) => {
   const PostContent = contentComponent || Content;
-  const [name, setName] = useState(null);
-  const [price, setPrice] = useState(null);
-  const [url, setUrl] = useState(null);
   const [currency, setCurrency] = useState(null);
-  const [hasData, setHasData] = useState(false);
+  const [items, setItems] = useState([]);
 
   useEffect(() => {
     if (gameID) {
       fetch(`https://boardgameprices.co.uk/api/info?id=${gameID}`)
         .then(response => response.json())
         .then(data => {
-          setName(data.items[0].name);
-          setPrice(getSortedPrices(data.items[0].prices));
-          setUrl(data.items[0].url);
+          setItems(data.items);
           setCurrency(data.currency);
-          setHasData(true);
         });
     }
   }, []);
@@ -63,7 +76,7 @@ export const BlogPostTemplate = ({
         <div className="post__header-content">
           <div className="container">
             <h1 className="post__title">{title}</h1>
-            {renderGameInfo(hasData, url, name, price, currency)}
+            {renderGames(items, currency)}
             <time datetime={date}>{date}</time>
             <p className="post__desc">{description}</p>
           </div>
