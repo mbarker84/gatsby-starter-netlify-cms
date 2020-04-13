@@ -11,6 +11,20 @@ const getSortedPrices = prices => {
   return sortedPrices[0];
 };
 
+const renderGameInfo = (hasData, url, name, price, currency) => {
+  if (hasData) {
+    return (
+      <h2>
+        <a href={url} rel="noopener noreferrer">
+          {name}: {price} {currency}
+        </a>
+      </h2>
+    );
+  } else {
+    return <h2>Fetching latest prices...</h2>;
+  }
+};
+
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -21,11 +35,12 @@ export const BlogPostTemplate = ({
   date
 }) => {
   const PostContent = contentComponent || Content;
-  const [gameInfo, setGameInfo] = useState(0);
-  const [name, setName] = useState(0);
-  const [price, setPrice] = useState(0);
-  const [url, setUrl] = useState(0);
-  const [currency, setCurrency] = useState(0);
+  const [gameInfo, setGameInfo] = useState(null);
+  const [name, setName] = useState(null);
+  const [price, setPrice] = useState(null);
+  const [url, setUrl] = useState(null);
+  const [currency, setCurrency] = useState(null);
+  const [hasData, setHasData] = useState(false);
 
   const id = 12;
 
@@ -38,6 +53,7 @@ export const BlogPostTemplate = ({
         setPrice(getSortedPrices(data.items[0].prices));
         setUrl(data.items[0].url);
         setCurrency(data.currency);
+        setHasData(true);
       });
   }, []);
 
@@ -50,11 +66,7 @@ export const BlogPostTemplate = ({
         <div className="post__header-content">
           <div className="container">
             <h1 className="post__title">{title}</h1>
-            <h2>
-              <a href={url} rel="noopener noreferrer">
-                {name}: {price} {currency}
-              </a>
-            </h2>
+            {renderGameInfo(hasData, url, name, price, currency)}
             <time datetime={date}>{date}</time>
             <p className="post__desc">{description}</p>
           </div>
