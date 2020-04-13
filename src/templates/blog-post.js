@@ -41,7 +41,7 @@ const renderGames = (items, currency) => {
     return <ul>{list}</ul>;
   }
 
-  return <h4 className="heading-3">{gameContent(items[0])}</h4>;
+  return <h4 className="heading-3">{gameContent(items[0], currency)}</h4>;
 };
 
 export const BlogPostTemplate = ({
@@ -86,11 +86,11 @@ export const BlogPostTemplate = ({
         <div class="post__content">
           <PostContent content={content} />
           {tags && tags.length ? (
-            <div>
+            <div className="taglist">
               <h4>Tags</h4>
-              <ul className="taglist">
+              <ul className="taglist__list">
                 {tags.map(tag => (
-                  <li key={tag + `tag`}>
+                  <li className="taglist__item" key={tag + `tag`}>
                     <Link
                       to={`/tags/${kebabCase(tag)}/`}
                       className="link link--secondary"

@@ -23,14 +23,7 @@ export const IndexPageTemplate = ({ posts }) => {
       ></FeaturedArticle>
       <section class="section">
         <div className="container-sm">
-          <div>
-            <BlogRoll />
-            <div>
-              <Link className="btn" to="/blog">
-                Read more
-              </Link>
-            </div>
-          </div>
+          <BlogRoll />
         </div>
       </section>
     </div>

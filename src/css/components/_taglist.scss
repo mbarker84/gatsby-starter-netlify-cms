@@ -1,0 +1,16 @@
+.taglist {
+  border-top: 2px solid $primary;
+  padding-top: 2rem;
+}
+
+.taglist__list {
+  @media (min-width: $md) {
+    display: flex;
+  }
+}
+
+.taglist__item {
+  @media (min-width: $md) {
+    margin-right: 1rem;
+  }
+}
