@@ -10,7 +10,7 @@ import FeaturedArticle from "../components/FeaturedArticle";
 import "../css/styles.scss";
 
 export const IndexPageTemplate = ({ posts }) => {
-  const featuredPost = posts[2].node;
+  const featuredPost = posts[0].node;
 
   return (
     <div>
