@@ -33,6 +33,38 @@
   }
 }
 
+.post__game-info {
+  padding: 0.75rem 1rem;
+  background-color: darken($bg, 7%);
+  display: inline-block;
+  margin-top: 1rem;
+
+  @media (min-width: $md) {
+    padding: 0.75rem 1.5rem;
+  }
+
+  * {
+    margin: 0;
+  }
+
+  a {
+    color: $secondary;
+
+    &:hover,
+    &:focus {
+      color: $primary;
+    }
+  }
+}
+
+.post__error {
+  color: lighten($text, 20%);
+}
+
+.post__date {
+  display: block;
+}
+
 .post__content {
   padding: 1rem 0;
 
