@@ -25,6 +25,16 @@
   }
 }
 
+.post__header-wrapper--with-img {
+  @media (min-width: $lg) {
+    margin-top: -12rem;
+    background-color: $bg;
+    position: relative;
+    z-index: 1;
+    padding: 1.5rem 2.5rem;
+  }
+}
+
 .post__header-content {
   padding: 1rem 0 0 0;
 
@@ -76,5 +86,32 @@
 
   @media (min-width: $md) {
     padding: 3rem;
+  }
+}
+
+.post__featured-image {
+  height: rem(500px);
+  max-height: 60vh;
+  position: relative;
+
+  &::after {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0) 50%
+    );
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 }

@@ -66,14 +66,12 @@ const renderGames = (items, currency, gameID) => {
 const renderImage = (image, title) => {
   if (!image) return;
 
+  const { srcSet, src } = image.childImageSharp.fluid;
+  const alt = `featured image thumbnail for post ${title}`;
+
   return (
     <div className="post__featured-image">
-      <PreviewCompatibleImage
-        imageInfo={{
-          image: image,
-          alt: `featured image thumbnail for post ${title}`,
-        }}
-      ></PreviewCompatibleImage>
+      <img srcset={srcSet} src={src} alt={alt}></img>
     </div>
   );
 };
@@ -115,16 +113,18 @@ export const BlogPostTemplate = ({
         {renderImage(featuredimage)}
         <div className="post__header-content">
           <div className="container">
-            <h1 className="post__title">{title}</h1>
-            <time class="post__date" datetime={date}>
-              {date}
-            </time>
-            {gameID && (
-              <div className="post__game-info">
-                {renderGames(items, currency, gameID)}
-              </div>
-            )}
-            <p className="post__desc">{description}</p>
+            <div className={featuredimage && "post__header-wrapper--with-img"}>
+              <h1 className="post__title">{title}</h1>
+              <time class="post__date" datetime={date}>
+                {date}
+              </time>
+              {gameID && (
+                <div className="post__game-info">
+                  {renderGames(items, currency, gameID)}
+                </div>
+              )}
+              <p className="post__desc">{description}</p>
+            </div>
           </div>
         </div>
       </header>
