@@ -1,25 +1,22 @@
 import React from "react";
 import { Link } from "gatsby";
-import PreviewCompatibleImage from "./PreviewCompatibleImage";
 
 import "../css/styles.scss";
 
 const renderImage = (image, title) => {
   if (!image) return;
 
+  const { srcSet, src } = image.childImageSharp.fluid;
+  const alt = `featured image thumbnail for post ${title}`;
+
   return (
-    <div className="featured__image">
-      <PreviewCompatibleImage
-        imageInfo={{
-          image: image,
-          alt: `featured image thumbnail for post ${title}`
-        }}
-      ></PreviewCompatibleImage>
+    <div className="featured__image-wrapper">
+      <img srcset={srcSet} src={src} alt={alt}></img>
     </div>
   );
 };
 
-const FeaturedArticle = props => {
+const FeaturedArticle = (props) => {
   const { title, featuredImage, date, slug, excerpt } = props;
   const style = featuredImage ? "featured" : "featured featured--no-image";
 

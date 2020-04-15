@@ -10,7 +10,7 @@ import FeaturedArticle from "../components/FeaturedArticle";
 import "../css/styles.scss";
 
 export const IndexPageTemplate = ({ posts }) => {
-  const featuredPost = posts[0].node;
+  const featuredPost = posts[2].node;
 
   return (
     <div>
@@ -38,8 +38,8 @@ IndexPageTemplate.propTypes = {
   mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
-    blurbs: PropTypes.array
-  })
+    blurbs: PropTypes.array,
+  }),
 };
 
 const IndexPage = ({ data }) => {
@@ -56,9 +56,9 @@ const IndexPage = ({ data }) => {
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object
-    })
-  })
+      frontmatter: PropTypes.object,
+    }),
+  }),
 };
 
 export default IndexPage;
