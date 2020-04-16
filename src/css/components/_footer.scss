@@ -1,9 +1,10 @@
 .footer {
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   background-color: darken($bg, 10%);
 
   small {
-    margin: 0;
+    margin: 0.5rem 0;
+    display: block;
   }
 }
 
