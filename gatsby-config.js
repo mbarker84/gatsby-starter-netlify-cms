@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "The Gamekeeper",
-    description: "A blog about board games"
+    description: "Boardgame news and reviews",
   },
   plugins: [
     {
@@ -9,10 +9,10 @@ module.exports = {
       options: {
         fonts: [
           `eczar\:400`,
-          `bitter\:400,700` // you can also specify font weights and styles
+          `bitter\:400,700`, // you can also specify font weights and styles
         ],
-        display: "swap"
-      }
+        display: "swap",
+      },
     },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
@@ -21,22 +21,22 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/static/img`,
-        name: "uploads"
-      }
+        name: "uploads",
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/src/pages`,
-        name: "pages"
-      }
+        name: "pages",
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/src/img`,
-        name: "images"
-      }
+        name: "images",
+      },
     },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
@@ -47,8 +47,8 @@ module.exports = {
           {
             resolve: "gatsby-remark-relative-images",
             options: {
-              name: "uploads"
-            }
+              name: "uploads",
+            },
           },
           {
             resolve: "gatsby-remark-images",
@@ -56,31 +56,31 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048
-            }
+              maxWidth: 2048,
+            },
           },
           {
             resolve: "gatsby-remark-copy-linked-files",
             options: {
-              destinationDir: "static"
-            }
-          }
-        ]
-      }
+              destinationDir: "static",
+            },
+          },
+        ],
+      },
     },
     {
       resolve: "gatsby-plugin-netlify-cms",
       options: {
-        modulePath: `${__dirname}/src/cms/cms.js`
-      }
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      },
     },
     {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ["/all.sass"] // applies purging only on the bulma css file
-      }
+        purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
+      },
     }, // must be after other CSS plugins
-    "gatsby-plugin-netlify" // make sure to keep it last in the array
-  ]
+    "gatsby-plugin-netlify", // make sure to keep it last in the array
+  ],
 };
