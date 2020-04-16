@@ -1,0 +1,18 @@
+.tagged-posts__link {
+  padding-top: 1rem;
+  margin-too: 1rem;
+  border-top: 2px solid $primary;
+
+  @media (min-width: $md) {
+    margin-top: 2rem;
+  }
+}
+
+.all-tags__list {
+  margin-top: 1rem;
+
+  @media (min-width: $lg) {
+    margin-top: 3rem;
+    columns: 2;
+  }
+}

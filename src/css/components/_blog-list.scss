@@ -12,6 +12,10 @@
   }
 }
 
+.blog-list__content {
+  max-width: 75ch;
+}
+
 .blog-list__img-wrapper {
   flex: 0 0 rem(300px);
   margin: 0 0 1rem 0;
