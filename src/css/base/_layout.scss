@@ -3,6 +3,7 @@
 
   @media (min-width: $md) {
     padding-top: 5rem;
+    min-height: calc(100vh - 3.5rem);
   }
 }
 
