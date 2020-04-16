@@ -123,7 +123,7 @@ export const BlogPostTemplate = ({
                   {renderGames(items, currency, gameID)}
                 </div>
               )}
-              <p className="post__desc">{description}</p>
+              {description && <p className="post__desc">{description}</p>}
             </div>
           </div>
         </div>
