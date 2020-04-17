@@ -21,7 +21,7 @@ tags:
   - Two players
   - Card game
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![](/img/flavor_wheel.jpg)
 
 # 1. Bohnanza
 
@@ -33,8 +33,6 @@ In Bohnanza, you and up to seven friends can trade beans with each other, collec
 
 Conclusion: Just the game you've bean waiting for. This game may look old school, but its a lot of fun. Friends and family will have a great time wheeling and dealing with each other, forging temporary alliances and rivalries. But take note, this can be a bit of a runner usually lasting an hour. But it’s really fun so you wont mind. The two player game changes the rules and flow slightly but I have still found it enjoyable, though there will be better games for two coming up in this blog. This game will sing if you have 4-6 players.
 
-
-
 # 2. Animals on Board
 
 ### For 2-4 players
@@ -44,8 +42,6 @@ One of the Bible's more believable fairy stories is about a man who takes two of
 Each round, a veritable smorgasbord of animal tiles will be placed in a big group in the centre of the table. The first player simply splits the group, like Moses parting the red sea, in to two groups however they wish and then takes a food token from the supply (Not like Moses). With there now being two groups of animal tiles, the next player selects one of the two and splits this into two, taking a food token. On a turn a player can, instead of splitting a group of animals, opt to snag a group of animals like.....Cruella De Ville, by paying food tokens equal to the number of animals in the group and placing said animals on their marvellous 3D ark. Once everyone's bought a group (The last player only gets one more turn to buy one, so may end up without a group) the round ends and more tiles are placed in the centre and play continues. There's five of each animal in the game, with each numbered 1 to 5. If you end the game with a solitary animal of a type eg. one giraffe, it scores you the number on the tile. But if you get three or more of a type of animal, they score you 5 points each! But beware, a pair of animals of a type wont score you any points because Noah takes them from you and murders them probably. The key to the game is making the animal types you want less appealing to others, so you can grab them with your food tokens. But you must be careful how you split to ensure other groups that are formed are not too profitable for other players.
 
 Conclusion: Flood your table with friends and disciples, this game is simple and fun. Kids will enjoy this game, but once they've gone to bed, the adults will be wanting to carry on. Interesting choices to make, with a small amount of luck thrown in. Best with 3 or 4 players. I wouldn’t blame you buying a pair of copies, though Noah might steal them.
-
-
 
 # 3. Sushi Go Party (Or Sushi Go)
 
@@ -57,11 +53,7 @@ Players are dealt a hand of cards depicting sushi type dishes with each dish hav
 
 Conclusion: Sushi Go is a really engaging game with plenty of decisions to make. Some cards are going to give you points easily, while with others you will be pushing your luck a bit and hoping there are multiple cards of that type in circulation. The dish names and the adding up involved might make the game sound more complicated than it is. It’s a beautiful design and it wont take long for you to pick up how each dish scores from the symbology on the card. 'Sushi Go Party' includes an extensive range of dishes so you can pick and choose a menu of which card types you would like to be in your game to mix things up a bit. Wheras the smaller, cheaper 'Sushi go' just has the exact number of cards to play the game and it will always have those same types. This game is delicious, pass it on.
 
-
-
-
-
-# 4. The Mind 
+# 4. The Mind
 
 ### For 2 - 4 players
 
@@ -70,8 +62,6 @@ Can you count on your friends? Can you count? Can you? You?
 The Mind is a deck of cards numbered 1-100. Deal each player a card. One player say's "Begin" and players must simply play all the cards face up on to the table in ascending order without saying anything to each other. If you succeed, shuffle the deck and try giving each player two cards each. See how many cards your group can climb to. Three? Six? Eight? If you want to mix things up, have players play their cards face down and reveal them in the order played for an extra level of tension
 
 Conclusion: The mind is barely a game. Its an activity. You and your friends will gradually develop an unspoken timer. Waiting, waiting, waiting, feeling the moment when you must play your card/s. You're holding card 31, your mind races "Too much time has passed, we must be in the thirties now! Maybe?" You will fail. A lot. But you'll be playing again once the decks had a reshuffle. It doesnt sound fun when the rules are explained, but it's tense.When you succeed it feels great, you will laugh at your friends and you will shout at your friends. If it clicks with your group you can play it anywhere. Up the pub, on the train. And you will play it again and again and again and again....
-
-
 
 # 5. Lost Cities
 
@@ -82,7 +72,5 @@ Only the bravest explorers are invited to play expedition cards in five colours 
 In Lost Cities two players take it in turns to play a card, then draw a card. Playing a colour card for the first time will start your expedition of that colour. For the remainder of the game, cards of that colour are played on top of that card and they must be of a higher value than the most recent card. The aim of the expedition is to have the cards total more than 20 and you will score victory points for how high above 20 the expedition totals. So if your yellow cards total 32, the expedition will score you twelve points. The difficulty being, you start the game with extremely limited information, just the cards in your hand, and if your expedition does not total 20 at the end of the game, you score minus points equal to the deficit. All the while your opponent is trying to build up their own expeditions. You must play a card every turn, so if the cards in your hand are not ideal for placing to your expeditions, or are of a colour you don't really want, you can play a card to that colours discard pile. But your opponent may use their end-of-turn-card-draw to take this card. The game makes for interesting strategic decisions as you work out which colours you are most likely to do well on (as you will definitely not do well in all five colours) If you do not commit any cards to an expedition of a colour, you do not score any minus points for that colour. Courageous players who play a handshake card to an expedition before playing any numbered cards, will double the positive or negative points they score at the end. There are also bonus points to be had if one of your expeditions has eight cards or more, so you also need to ensure you do not allow an opponent to monopolise a colour.
 
 Conclusion: A simple game for two that is full of decisions. You will push your luck starting expeditions when you really have no way of knowing whether you are going to reach the 20 point threshold. The explorer theme is unimportant, its basically just a deck of numbered cards. And occasionally one player might just draw perfect cards for the expeditions they want meaning the other player might feel a bit aggrieved at their lack of luck. But each game is a chance to flex your brain against a pal and its quick enough that you will play it again and then most likely you will play it again, if you have the courage that is.
-
-
 
 Numbers 6 to 10 of this list can be found in my next post.....
