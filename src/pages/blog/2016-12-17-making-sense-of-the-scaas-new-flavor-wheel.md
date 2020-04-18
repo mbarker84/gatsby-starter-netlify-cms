@@ -23,8 +23,6 @@ tags:
   - Two players
   - Card game
 ---
-![](/img/photo-18-04-2020-13-13-44.jpg)
-
 ## 1. Bohnanza
 
 #### For 2-7 players
