@@ -19,7 +19,7 @@ tags:
   - Push your luck
   - Co-operative
 ---
-
+![](/img/photo-18-04-2020-13-15-20.jpg)
 
 ## 6. Parade
 
@@ -31,8 +31,6 @@ A player's turn consists of placing a card from their hand at the end of the par
 
 Conclusion: Its small, it's fast, it's simple. When you play a card at just the right time resulting in you not having to pick up any cards, it will put a big smile on your face like some kind of large happy cat. The game looks as though it would appeal to younger players, but the rules may be just a tad counter intuitive for them to pick up. But you should pick it up. Now. Don't be late!
 
-
-
 ## 7. Isle of Skye: From Chieftain to King
 
 #### For 2-5 players
@@ -42,8 +40,6 @@ Tae yer bagpipe from it's sporran and yer animals from their bairns, It's Isle o
 Each round, players will draw 3 random landscape tiles from a bag and place them on the table in front of their screen. Players will secretly decide which one of these 3 will be binned and set a price for the other 2 tiles. Prices are revealed by all and then in turn order, players will be able to purchase one tile from in front of any other player. The prices you set for your 2 remaining tiles are using your own money, so you should probably keep some spare if there's a tile you really want to buy. If you used 3 of your money to price a tile and another player agrees to pay you 3, you will get to keep that 6 money. If one or both of your tiles fail to sell, you get to keep the tiles but pay, to the bank, the money you used to set their price. Once everyone has had the chance to buy one tile, players place the tiles they bought and those that they didn't sell, in to their tableau forming a beautiful Scottish Kingdom. Every game of Isle of Skye will have four main ways of scoring, drawn at random at the beginning of the game. So it might be victory points for every sheep in your kingdom, or having the most ships. Or victory points for every completed mountain. Or points for having well connected roads. Or the richest player! And these will only score at the end of certain rounds, so your priorities are constantly changing. And if you can get your hands on a tile with a scroll on it, the scroll will give you a way to score points that the other players wont have.
 
 Conclusion: Its beautiful, its sociable, it's scottish for some reason, its also a bit over £20 but its worth breaking the rules for. Every game of Isle of Skye will have different ways of scoring points which means its got longevity. You'll have fun interacting with your opponents as you set a hefty price for the tile they really want, or set its price one coin too high for them to afford. You'll finish the game with a lovely tableau and the game works brilliantly with two, three, four or five players. If you play it a lot, it has two expansions you can buy that will up the complexity. It's easily in my top 5 board games of all time and it could be in yours too.
-
-
 
 ## 8. Celestia
 
@@ -56,8 +52,6 @@ Every player will begin each round in the good ship Celestia. A course of nine c
 Conclusion
 
 Celestia is a beautiful game that will be sure to entertain. One minute you'll be high fiving the Captain who has guided you to safety and the next minute you'll be cheering their demise. Nobody is ever sure how many points the other players have, so its always tense as you wonder whether you need to press on to the next City despite your hand of cards being seriously limited to combat the dice rolls. The main drawback for me is that the special action cards (Like the jetpack) do not tell you what the card does, so players unfamiliar with the game are regularly having to consult the manual to see what the card does. Celestia is such a stunning looking game, when you're not playing it you could display it on your mantelpiece.
-
-
 
 ## 9. Forbidden Desert
 
