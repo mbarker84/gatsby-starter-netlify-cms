@@ -39,6 +39,8 @@ At the end of the game you add up the values of the cards in front of you and th
 
 Conclusion: Its small, it's fast, it's simple. When you play a card at just the right time resulting in you not having to pick up any cards, it will put a big smile on your face like some kind of large happy cat. The game looks as though it would appeal to younger players, but the rules may be just a tad counter intuitive for them to pick up. But you should pick it up. Now. Don't be late!
 
+Buy for £18 [here](https://www.board-game.co.uk/product/parade/?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp) (restock imminent)
+
 ## 7. Isle of Skye: From Chieftain to King
 
 #### For 2-5 players
@@ -61,6 +63,8 @@ Every game of Isle of Skye will have four main ways of scoring, drawn at random 
 
 Conclusion: Its beautiful, its sociable, it's scottish for some reason, its also a bit over £20 but its worth breaking the rules for. Every game of Isle of Skye will have different ways of scoring points which means its got longevity. You'll have fun interacting with your opponents as you set a hefty price for the tile they really want, or set its price one coin too high for them to afford. You'll finish the game with a lovely tableau and the game works brilliantly with two, three, four or five players. If you play it a lot, it has two expansions you can buy that will up the complexity. It's easily in my top 5 board games of all time and it could be in yours too.
 
+Buy for £26 [here](https://www.amazon.co.uk/dp/B012HND8S8?tag=bgpuk-21&linkCode=ogi&th=1&psc=1&utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp) 
+
 ## 8. Celestia
 
 #### For 2-6 players
@@ -79,6 +83,8 @@ Conclusion
 
 Celestia is a beautiful game that will be sure to entertain. One minute you'll be high fiving the Captain who has guided you to safety and the next minute you'll be cheering their demise. Nobody is ever sure how many points the other players have, so its always tense as you wonder whether you need to press on to the next City despite your hand of cards being seriously limited to combat the dice rolls. The main drawback for me is that the special action cards (Like the jetpack) do not tell you what the card does, so players unfamiliar with the game are regularly having to consult the manual to see what the card does. Celestia is such a stunning looking game, when you're not playing it you could display it on your mantelpiece.
 
+Buy for £20 [here](https://www.365games.co.uk/strategy-board-games/celestia-board-game?awc=5778_1587221655_2c37e43a08156cef99a52a7912cc187e&utm_source=affiliate_window&utm_medium=affiliate)
+
 ## 9. Forbidden Desert
 
 #### For 1-5 players
@@ -95,6 +101,8 @@ Forbidden Desert is a co-operative game which see's players trying to work toget
 
 Conclusion: Games where players co-operate to win are quite common now, but this one is very accessible for people new to the hobby, has a lovely unique-ness in that the board (Or grid of tiles) feels alive as the storm travels around. If players don't work together the sand is going to pile up and make the task impossible. Another interesting element is that each player will have a special skill. It might be the power to heal other players. Or Dig sand faster than others. One player (Meteorologist) can even spend action points to look at cards in the storm deck and potentially delay the harsh weather. It'ssimple, exciting game that players battle, as a team, and try to beat the game. The difficulty can also be ramped up if you find you've hardly broken a sweat, and can quite easily be played 1 player as you control the multiple characters running around. 
 
+Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-games-c550/gamewright-forbidden-desert-p131155?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
+
 ## 10. No Thanks
 
 #### For 3-7 players
@@ -108,3 +116,5 @@ Many are the evenings I will sit down with my wife and suggest we while away the
 Each round a card from the deck is turned face up. Players in turn will decide whether to take the card to place in front of them (For bad negative points equal to its number) or place one of their chips on the card to say ‘No thanks’. The placing of chips can potentially keep circling until one player decides to take the card which also means they get to take all the chips that are on the card, with chips obviously being useful to be able to say ‘No thanks’ in future rounds and also provide a victory point each at the end of the game. One nice wrinkle to the way cards score is that, of the cards you’ve claimed, any run of two or more cards means it will only be the lowest that scores. So if i have already taken cards 23 and 25 for example, and later in the game 24 is the card revealed from the deck, if i take it, those three cards will only give me 23 negative points. So I actually want to take card 24, but I know the other players most likely don’t want the card. And maybe i should say ‘No thanks’ a few times first in order to get more counters put on the card! But the more counters that pile up, the more tempting it is for someone else, or maybe one player has run out of chips and will HAVE to take the card, leaving me with 23+25 negative points.
 
 A really simple game with lots of great moments fuelled by the suspense of who is going to take the cards, especially the high ones. Some cards are removed from the deck at the beginning of the game, so the card you want to plug a gap in your run might not even be in there. At first it may seem like there would be very little strategy, but it is surprising how many tough decisions you are faced with and sometimes it is useful just to stock up on more chips by taking a card slightly early. At a cost of £13? ‘Yes please’
+
+Buy for £13 [here](https://firestormcards.co.uk/VR1029?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
