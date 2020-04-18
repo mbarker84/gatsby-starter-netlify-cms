@@ -7,10 +7,12 @@ date: 2020-04-18T12:00:00.000Z
 description: >-
   Welcome to a new corner of board game write-ups and reviews.  Looked after by
   The Game Keeper. I have compiled a list of 10 accessible games with a range of
-  player counts and mechanisms, my hope is that there's something here for
-  everyone. Please note, i love all these games, so this is less of a review and
-  more of an explanation of how the games work, so you can decide if any
-  interest you
+  player counts and mechanisms, my hope is that there is something here for
+  everyone. I like all these games, so this is less of a review and more of an
+  explanation of how the games work, so you can decide if any interest you
+
+
+  Please note, all were available and prices correct at time of posting...
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
