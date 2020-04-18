@@ -12,7 +12,7 @@ description: >-
   explanation of how the games work, so you can decide if any interest you.
 
 
-  Please note, all were available and prices correct at time of posting...
+  Please note, all prices correct at time of posting...
 featuredpost: false
 featuredimage: /img/photo-18-04-2020-13-13-44.jpg
 tags:
@@ -47,9 +47,9 @@ Conclusion: Just the game you've bean waiting for. This game may look old school
 
 ![]()
 
-One of the Bible's more believable fairy stories is about a man who takes two of every one of the millions of animals on earth and puts them on a single boat. Animals on board replicates this, with an I-cut-you-choose mechanism, but you'll only need to make room for about 12 animals. 
+One of the Bible's more believable stories is about a man who takes two of every one of the millions of animals on earth and puts them on a single boat. Animals on board replicates this, with an I-cut-you-choose mechanism, but you'll only need to make room for about 12 animals. 
 
-Each round, a veritable smorgasbord of animal tiles will be placed in a big group in the centre of the table. The first player simply splits the group, like Moses parting the red sea, in to two groups however they wish and then takes a food token from the supply (Not like Moses). With there now being two groups of animal tiles, the next player selects one of the two and splits this into two, taking a food token. On a turn a player can, instead of splitting a group of animals, opt to snag a group of animals like.....John the Baptist, by paying food tokens equal to the number of animals in the group and placing said animals on their marvellous 3D ark.
+Each round, a veritable smorgasbord of animal tiles will be placed in a big group in the centre of the table. The first player simply splits the group, like Moses parting the red sea, in to two groups however they wish and then takes a food token from the supply (Not like Moses). With there now being two groups of animal tiles, the next player selects one of the groups and splits that into two, taking a food token. On a turn a player can, instead of splitting a group of animals, opt to snag a group of animals like.....John the Baptist, by paying food tokens equal to the number of animals in the group and placing said animals on their marvellous 3D ark.
 
 Once everyone's bought a group (The last player only gets one more turn to buy one, so may end up without a group) the round ends and more tiles are placed in the centre and play continues. There's five of each animal in the game, with each numbered 1 to 5. If you end the game with a solitary animal of a type eg. one giraffe, it scores you the number on the tile. But if you get three or more of a type of animal, they score you 5 points each! But beware, a pair of animals of a type wont score you any points because Noah takes them from you and murders them probably. 
 
