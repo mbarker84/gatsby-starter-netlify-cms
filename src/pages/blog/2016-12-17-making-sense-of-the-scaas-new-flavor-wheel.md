@@ -41,6 +41,8 @@ During your opponents turns you're frantically trying to trade, or give away, th
 
 Conclusion: Just the game you've bean waiting for. This game may look old school, but its a lot of fun. Friends and family will have a great time wheeling and dealing with each other, forging temporary alliances and rivalries. But take note, this can be a bit of a runner usually lasting an hour. But it’s really fun so you wont mind. The two player game changes the rules and flow slightly but I have still found it enjoyable, though there will be better games for two coming up in this blog. This game will sing if you have 4-6 players.
 
+
+
 ## 2. Animals on Board
 
 #### For 2-4 players
@@ -61,6 +63,8 @@ The key to the game is making the animal types you want less appealing to others
 
 Conclusion: Flood your table with friends and disciples, this game is simple and fun. Kids will enjoy this game, but once they've gone to bed, the adults will be wanting to carry on. Interesting choices to make, with a small amount of luck thrown in. Best with 3 or 4 players. I wouldn’t blame you buying a pair of copies, though Noah might steal them.
 
+Buy for £9 [here](https://www.amazon.co.uk/dp/B01DT1T9IU?tag=bgpuk-21&linkCode=ogi&th=1&psc=1&utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
+
 ## 3. Sushi Go Party (Or Sushi Go)
 
 #### For 2 - 8 players (Or 2 to 5)
@@ -75,6 +79,8 @@ Players are dealt a hand of cards depicting sushi type dishes with each dish hav
 
 Conclusion: Sushi Go is a really engaging game with plenty of decisions to make. Some cards are going to give you points easily, while with others you will be pushing your luck a bit and hoping there are multiple cards of that type in circulation. The dish names and the adding up involved might make the game sound more complicated than it is. It’s a beautiful design and it wont take long for you to pick up how each dish scores from the symbology on the card. 'Sushi Go Party' includes an extensive range of dishes so you can pick and choose a menu of which card types you would like to be in your game to mix things up a bit. Wheras the smaller, cheaper 'Sushi go' just has the exact number of cards to play the game and it will always have those same types. This game is delicious, pass it on.
 
+Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/a-z-c801/s-c824/gamewright-sushi-go-party-p144191?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
+
 ## 4. The Mind
 
 #### For 2 - 4 players
@@ -88,6 +94,8 @@ The Mind is a deck of cards numbered 1-100. Deal each player a card. One player 
 ![](/img/photo-13-04-2020-17-25-16.jpg)
 
 Conclusion: The mind is barely a game. Its an activity. You and your friends will gradually develop an unspoken timer. Waiting, waiting, waiting, feeling the moment when you must play your card/s. You're holding card 31, your mind races "Too much time has passed, we must be in the thirties now! Maybe?" You will fail. A lot. But you'll be playing again once the decks had a reshuffle. It doesnt sound fun when the rules are explained, but it's tense.When you succeed it feels great, you will laugh at your friends and you will shout at your friends. If it clicks with your group you can play it anywhere. Up the pub, on the train. And you will play it again and again and again and again....
+
+Buy for £10 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-games-c550/n-s-v-the-mind-p161759?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
 
 ## 5. Lost Cities
 
@@ -106,5 +114,7 @@ In Lost Cities two players take it in turns to play a card, then draw a card. Pl
 You must play a card every turn, so if the cards in your hand are not ideal for placing to your expeditions, or are a colour you don't really want, you can play a card to that colours discard pile. But your opponent may use their end-of-turn-card-draw to take this card. So timing can be crucial. The game makes for interesting strategic decisions as you work out which colours you are most likely to do well on (as you will definitely not do well in all five colours) If you do not commit any cards to an expedition of a colour, you do not score any minus points for that colour. Courageous players who play a handshake card to an expedition before playing any numbered cards, will double the positive or negative points they score at the end. There are also bonus points to be had if one of your expeditions has eight cards or more, so you also need to ensure you do not allow an opponent to monopolise a colour.
 
 Conclusion: A simple game for two that is full of decisions. You will push your luck starting expeditions when you really have no way of knowing whether you are going to reach the 20 point threshold. The explorer theme is unimportant, its basically just a deck of numbered cards. And occasionally one player might just draw perfect cards for the expeditions they want meaning the other player might feel a bit aggrieved at their lack of luck. But each game is a chance to flex your brain against a pal and its quick enough that you will play it again and then most likely you will play it again, if you have the courage that is.
+
+Buy for £19 [here](https://www.theboardgamehut.co.uk/all-products/lost-cities-the-card-game.html?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
 
 **Numbers 6 to 10 of this list can be found in my next post.....**
