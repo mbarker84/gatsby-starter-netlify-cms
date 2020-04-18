@@ -4,7 +4,12 @@ title: '10 Fun, Easy Games For £20 Or Less  - Part 2'
 gameID:
   - '1'
 date: 2020-04-18T14:04:10.000Z
-description: 'Please note, all were available and prices correct at time of posting...'
+description: >-
+  Here is the second part of the list of 10 accessible games with a range of
+  player counts and mechanisms.
+
+
+  Please note, all were available and prices correct at time of posting...
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
