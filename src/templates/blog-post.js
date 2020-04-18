@@ -52,14 +52,18 @@ const renderGames = (items, currency, gameID) => {
       <div>
         <h5>Lowest prices for games in this article:</h5>
         <ul>{list}</ul>
+        <small>Data from Board Game Prices</small>
       </div>
     );
   }
 
   return (
-    <p className="heading-5">
-      Lowest price for {items[0].name}: {gameContent(items[0], currency)}
-    </p>
+    <div className="heading-5">
+      <p>
+        Lowest price for {items[0].name}: {gameContent(items[0], currency)}
+      </p>
+      <small>Data from Board Game Prices</small>
+    </div>
   );
 };
 
@@ -74,6 +78,22 @@ const renderImage = (image, title) => {
       <img srcset={srcSet} src={src} alt={alt}></img>
     </div>
   );
+};
+
+const gameIDIsNotEmptyOrZero = (id) => {
+  if (id != "0") return false;
+  if (id != " ") return false;
+  return true;
+};
+
+const gameIDValid = (gameID) => {
+  if (!gameID) return false;
+
+  if (gameID.length && gameID.some((el) => gameIDIsNotEmptyOrZero(el))) {
+    return true;
+  }
+
+  return false;
 };
 
 export const BlogPostTemplate = ({
@@ -92,8 +112,8 @@ export const BlogPostTemplate = ({
   const [items, setItems] = useState([]);
 
   useEffect(() => {
-    if (gameID) {
-      fetch(`https://boardgameprices.co.uk/api/info?id=${gameID}`)
+    if (gameIDValid(gameID)) {
+      fetch(`https://boardgameprices.co.uk/api/info?id=${gameID.join(",")}`)
         .then((response) => response.json())
         .then((data) => {
           setItems(data.items);
@@ -118,7 +138,7 @@ export const BlogPostTemplate = ({
               <time class="post__date" datetime={date}>
                 {date}
               </time>
-              {gameID && (
+              {gameIDValid(gameID) && (
                 <div className="post__game-info">
                   {renderGames(items, currency, gameID)}
                 </div>
