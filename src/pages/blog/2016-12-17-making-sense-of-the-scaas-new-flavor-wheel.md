@@ -33,7 +33,7 @@ Beans aren't just something you can plant in the ground to grow a stalk that ris
 
 Everyone has a hand of cards (beans) and the real hook of the game is that you aren't allowed to rearrange the order of your hand. At the beginning of your turn you play the first and possibly the second beans from your hand in front of you (Planting them), with the aim, as the game progresses, to have them join other cards of the same bean type. Then you reveal two bean cards from the deck and you can plant these yourself or try and trade them, along with unwanted cards in your hand, with the other players. If you can’t trade the two cards from the deck, you must plant them. But you're only allowed a few types of bean in front of you at any one time and any new types of bean you're forced to plant, replace your hard earned plantations, forcing you to sell them (and discard them) before they've earned you peak coins (victory points). 
 
-![](/img/photo-13-04-2020-16-56-01.jpg)
+![](/img/photo-13-04-2020-16-56-01.jpg "Our stack of 4 planted coffee beans are worth one coin if we sell them, but if we can collect 12, they will be worth four coins! We only need two Soy Beans for one coin, but there are only twelve Soy Bean cards in the deck, compared to twenty four coffee beans.")
 
 *Our stack of 4 planted coffee beans are worth one coin if we sell them, but if we can collect 12, they will be worth four coins! We only need two Soy Beans for one coin, but there are only twelve Soy Bean cards in the deck, compared to twenty four coffee beans.* 
 
