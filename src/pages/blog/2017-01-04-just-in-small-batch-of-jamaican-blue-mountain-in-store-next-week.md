@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: '10 Fun, Easy Games For £20 Or Less  - Part 2'
 gameID:
-  - '1'
+  - '0'
 date: 2020-04-18T14:04:10.000Z
 description: >-
   Here is the second part of the list of 10 accessible games with a range of
