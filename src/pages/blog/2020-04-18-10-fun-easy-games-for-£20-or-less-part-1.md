@@ -41,6 +41,8 @@ During your opponents turns you're frantically trying to trade, or give away, th
 
 Conclusion: Just the game you've bean waiting for. This game may look old school, but its a lot of fun. Friends and family will have a great time wheeling and dealing with each other, forging temporary alliances and rivalries. But take note, this can be a bit of a runner usually lasting an hour. But it’s really fun so you wont mind. The two player game changes the rules and flow slightly but I have still found it enjoyable, though there will be better games for two coming up in this blog. This game will sing if you have 4-6 players.
 
+*Unfortunately at the time of posting, I could not find a store with Bohnanza in stock, but i'm sure it will be available again very soon,*
+
 ## 2. Animals on Board
 
 #### For 2-4 players
