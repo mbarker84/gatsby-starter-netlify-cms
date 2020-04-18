@@ -23,9 +23,9 @@ tags:
 ---
 ![](/img/flavor_wheel.jpg)
 
-# 1. Bohnanza
+## 1. Bohnanza
 
-### For 2-7 players
+#### For 2-7 players
 
 Beans aren't just something you can plant in the ground to grow a stalk that rises up to a Giant's castle in the clouds. They can be much more exciting than that. 
 
@@ -33,9 +33,11 @@ In Bohnanza, you and up to seven friends can trade beans with each other, collec
 
 Conclusion: Just the game you've bean waiting for. This game may look old school, but its a lot of fun. Friends and family will have a great time wheeling and dealing with each other, forging temporary alliances and rivalries. But take note, this can be a bit of a runner usually lasting an hour. But it’s really fun so you wont mind. The two player game changes the rules and flow slightly but I have still found it enjoyable, though there will be better games for two coming up in this blog. This game will sing if you have 4-6 players.
 
-# 2. Animals on Board
 
-### For 2-4 players
+
+## 2. Animals on Board
+
+#### For 2-4 players
 
 One of the Bible's more believable fairy stories is about a man who takes two of every one of the millions of animals on earth and puts them on a single boat. Animals on board replicates this, with an I-cut-you-choose mechanism, but you'll only need to make room for about 12 animals. 
 
@@ -43,7 +45,9 @@ Each round, a veritable smorgasbord of animal tiles will be placed in a big grou
 
 Conclusion: Flood your table with friends and disciples, this game is simple and fun. Kids will enjoy this game, but once they've gone to bed, the adults will be wanting to carry on. Interesting choices to make, with a small amount of luck thrown in. Best with 3 or 4 players. I wouldn’t blame you buying a pair of copies, though Noah might steal them.
 
-# 3. Sushi Go Party (Or Sushi Go)
+
+
+## 3. Sushi Go Party (Or Sushi Go)
 
 #### For 2 - 8 players (Or 2 to 5)
 
@@ -53,9 +57,11 @@ Players are dealt a hand of cards depicting sushi type dishes with each dish hav
 
 Conclusion: Sushi Go is a really engaging game with plenty of decisions to make. Some cards are going to give you points easily, while with others you will be pushing your luck a bit and hoping there are multiple cards of that type in circulation. The dish names and the adding up involved might make the game sound more complicated than it is. It’s a beautiful design and it wont take long for you to pick up how each dish scores from the symbology on the card. 'Sushi Go Party' includes an extensive range of dishes so you can pick and choose a menu of which card types you would like to be in your game to mix things up a bit. Wheras the smaller, cheaper 'Sushi go' just has the exact number of cards to play the game and it will always have those same types. This game is delicious, pass it on.
 
-# 4. The Mind
 
-### For 2 - 4 players
+
+## 4. The Mind
+
+#### For 2 - 4 players
 
 Can you count on your friends? Can you count? Can you? You?
 
@@ -63,9 +69,11 @@ The Mind is a deck of cards numbered 1-100. Deal each player a card. One player 
 
 Conclusion: The mind is barely a game. Its an activity. You and your friends will gradually develop an unspoken timer. Waiting, waiting, waiting, feeling the moment when you must play your card/s. You're holding card 31, your mind races "Too much time has passed, we must be in the thirties now! Maybe?" You will fail. A lot. But you'll be playing again once the decks had a reshuffle. It doesnt sound fun when the rules are explained, but it's tense.When you succeed it feels great, you will laugh at your friends and you will shout at your friends. If it clicks with your group you can play it anywhere. Up the pub, on the train. And you will play it again and again and again and again....
 
-# 5. Lost Cities
 
-For 2 players
+
+## 5. Lost Cities
+
+#### For 2 players
 
 Only the bravest explorers are invited to play expedition cards in five colours ranging in values between 2 and 10. Certainly not for the faint hearted. 
 
