@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
-title: '10 Fun, Easy Games For £20 Or Less  - Part 1'
+title: 10 Fun, Easy Games For £20 Or Less  - Part 1
 gameID:
-  - '0'
+  - "0"
 date: 2020-04-18T21:32:08.856Z
 description: >-
   Welcome to a new corner of board game write-ups and reviews.  Looked after by
   The Game Keeper. I have compiled a list of 10 accessible games with a range of
   player counts and mechanisms, my hope is that there is something here for
   everyone. I like all these games, so this is less of a review and more of an
-  explanation of how the games work, so you can decide if any interest you
+  explanation of how the games work, so you can decide if any interest you.
 
 
   Please note, all were available and prices correct at time of posting...
@@ -35,7 +35,7 @@ Everyone has a hand of cards (beans) and the real hook of the game is that you a
 
 ![](/img/photo-13-04-2020-16-56-01.jpg "Our stack of 4 planted coffee beans are worth one coin if we sell them, but if we can collect 12, they will be worth four coins! We only need two Soy Beans for one coin, but there are only twelve Soy Bean cards in the deck, compared to twenty four coffee beans.")
 
-*Our stack of 4 planted coffee beans are worth one coin if we sell them, but if we can collect 12, they will be worth four coins! We only need two Soy Beans for one coin, but there are only twelve Soy Bean cards in the deck, compared to twenty four coffee beans.* 
+*Our stack of 4 planted coffee beans are worth one coin if we sell them, but if we can collect 12, they will be worth four coins! We only need two Soy Beans to sell for one coin, but there are only twelve Soy Bean cards in the deck, compared to twenty four coffee beans.* 
 
 During your opponents turns you're frantically trying to trade, or give away, the cards in your hand that you don't want so that when your turn comes round again, the first and second cards in your hand are ones that you want to plant in front of you to swell your collection.
 
