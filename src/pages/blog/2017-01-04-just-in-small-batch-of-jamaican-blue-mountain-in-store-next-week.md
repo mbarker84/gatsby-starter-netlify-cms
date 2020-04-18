@@ -11,7 +11,7 @@ description: >-
 
   Please note, all were available and prices correct at time of posting...
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/photo-18-04-2020-13-15-20.jpg
 tags:
   - Card games
   - Tile laying
