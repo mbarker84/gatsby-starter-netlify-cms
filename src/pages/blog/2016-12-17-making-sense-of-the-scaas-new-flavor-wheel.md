@@ -29,9 +29,9 @@ tags:
 
 ![](/img/photo-13-04-2020-16-55-12.jpg)
 
-Beans aren't just something you can plant in the ground to grow a stalk that rises up to a Giant's castle in the clouds. They can be much more exciting than that. 
+Beans aren't just something you can plant in the ground to grow a stalk that rises up to a Giant's castle in the clouds. They can be much more exciting than that. In Bohnanza, you and up to seven friends can trade beans with each other, collecting sets in what is a simple and compelling card game. Sit down with plenty of drink, great conversation and a clever sociable game where you're trying to strike deals and barter with your fellow farmers. 
 
-In Bohnanza, you and up to seven friends can trade beans with each other, collecting sets in what is a simple and compelling card game. Sit down with plenty of drink, great conversation and a clever sociable game where you're trying to strike deals and barter with your fellow farmers. Everyone has a hand of cards (beans) and the real hook of the game is that you aren't allowed to rearrange the order of your hand. At the beginning of your turn you play the first and possibly the second beans from your hand in front of you (Planting them), hopefully, as the game progresses, joining other cards of that type. Then you reveal two bean cards from the deck and you can plant these yourself or try and trade them, along with unwanted cards in your hand, with the other players. If you can’t trade the two cards from the deck, you must plant them. But you're only allowed a few types of bean in front of you at any one time and any new types of bean you're forced to plant, replace your hard earned plantations, forcing you to sell them (and discard them) before they've earned you peak coins (victory points). 
+Everyone has a hand of cards (beans) and the real hook of the game is that you aren't allowed to rearrange the order of your hand. At the beginning of your turn you play the first and possibly the second beans from your hand in front of you (Planting them), with the aim, as the game progresses, to have them join other cards of the same bean type. Then you reveal two bean cards from the deck and you can plant these yourself or try and trade them, along with unwanted cards in your hand, with the other players. If you can’t trade the two cards from the deck, you must plant them. But you're only allowed a few types of bean in front of you at any one time and any new types of bean you're forced to plant, replace your hard earned plantations, forcing you to sell them (and discard them) before they've earned you peak coins (victory points). 
 
 ![](/img/photo-13-04-2020-16-56-01.jpg)
 
@@ -41,8 +41,6 @@ During your opponents turns you're frantically trying to trade, or give away, th
 
 Conclusion: Just the game you've bean waiting for. This game may look old school, but its a lot of fun. Friends and family will have a great time wheeling and dealing with each other, forging temporary alliances and rivalries. But take note, this can be a bit of a runner usually lasting an hour. But it’s really fun so you wont mind. The two player game changes the rules and flow slightly but I have still found it enjoyable, though there will be better games for two coming up in this blog. This game will sing if you have 4-6 players.
 
-
-
 ## 2. Animals on Board
 
 #### For 2-4 players
@@ -51,13 +49,13 @@ Conclusion: Just the game you've bean waiting for. This game may look old school
 
 One of the Bible's more believable fairy stories is about a man who takes two of every one of the millions of animals on earth and puts them on a single boat. Animals on board replicates this, with an I-cut-you-choose mechanism, but you'll only need to make room for about 12 animals. 
 
-Each round, a veritable smorgasbord of animal tiles will be placed in a big group in the centre of the table. The first player simply splits the group, like Moses parting the red sea, in to two groups however they wish and then takes a food token from the supply (Not like Moses). With there now being two groups of animal tiles, the next player selects one of the two and splits this into two, taking a food token. On a turn a player can, instead of splitting a group of animals, opt to snag a group of animals like.....Cruella De Ville, by paying food tokens equal to the number of animals in the group and placing said animals on their marvellous 3D ark.
+Each round, a veritable smorgasbord of animal tiles will be placed in a big group in the centre of the table. The first player simply splits the group, like Moses parting the red sea, in to two groups however they wish and then takes a food token from the supply (Not like Moses). With there now being two groups of animal tiles, the next player selects one of the two and splits this into two, taking a food token. On a turn a player can, instead of splitting a group of animals, opt to snag a group of animals like.....John the Baptist, by paying food tokens equal to the number of animals in the group and placing said animals on their marvellous 3D ark.
 
 Once everyone's bought a group (The last player only gets one more turn to buy one, so may end up without a group) the round ends and more tiles are placed in the centre and play continues. There's five of each animal in the game, with each numbered 1 to 5. If you end the game with a solitary animal of a type eg. one giraffe, it scores you the number on the tile. But if you get three or more of a type of animal, they score you 5 points each! But beware, a pair of animals of a type wont score you any points because Noah takes them from you and murders them probably. 
 
 ![](/img/photo-13-04-2020-17-09-08.jpg)
 
-*Our Giraffe and Zebra currently provide us 7points. But we're gonna need another Tiger or these will be worth zero*
+*Our Giraffe and Zebra currently provide us 7points. But we're gonna need another Tiger or those will be worth zero*
 
 The key to the game is making the animal types you want less appealing to others, so you can grab them with your food tokens. But you must be careful how you split to ensure other groups that are formed are not too profitable for other players.
 
