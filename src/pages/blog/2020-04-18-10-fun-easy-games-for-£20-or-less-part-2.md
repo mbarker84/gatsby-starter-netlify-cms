@@ -65,9 +65,9 @@ Buy for £26 [here](https://www.amazon.co.uk/dp/B012HND8S8?tag=bgpuk-21&linkCode
 
 #### For 2-6 players
 
-Roll up, Roll up. Climb aboard the magnificent craft Celestia and take your pawn on a most certainly doomed mission. 
+Roll up, Roll up. Climb aboard a magnificent craft and take your pawn on a most certainly doomed mission. 
 
-Every player will begin each round in the good ship Celestia. A course of nine cities will be plotted, each with its own cardboard tile, and one of the players will be designated Captain of the ship. The Captain will roll the two dice which will display the type of challenges the ship will face to reach the next city. All the other players must decide if the Captain alone has the matching cards in hand to be able to 'Make it so' and reach terra firma (The next city space). After potentially quizzing the captain, everyone announces whether they trust the captain and will stay on the ship, or whether they will jump off at the current location for certain Loot. 
+Every player will begin each round in the good ship Celestia. A course of nine cities will be plotted, each with its own oval tile, and one of the players will be designated Captain of the ship. The Captain will roll the two dice which will display the type of challenges the ship will face to reach the next city. All the other players must decide if the Captain alone has the matching cards in hand to be able to 'Make it so' and reach terra firma (The next city space). After potentially quizzing the captain, everyone announces whether they trust the captain and will stay on the ship, or whether they will jump off at the current location for certain Loot. 
 
 ![Celestia game pieces](/img/celestia-02.jpg)
 
@@ -87,7 +87,7 @@ Buy for £20 [here](https://www.365games.co.uk/strategy-board-games/celestia-boa
 
 In a game that could almost represent the aftermath of Celestia, your ship has crashed and its parts have scattered about the desert. 
 
-Forbidden desert begins as a 5 x 5 grid of face down tiles, representing the land the players must explore. A space in the middle represents the storm. At the end of each players turn, cards will be drawn from the storm deck to show directions in which the storm moves and as it moves it will leave sand on the tiles it shifts. And these tiles can, and will, pile up with a fair amount of sand. The deck also contains 'Sun beats down' cards which means players lose health. 
+Forbidden desert begins as a 5 x 5 grid of face down tiles, representing the land the players must explore. A space in the middle represents the storm. At the end of each players turn, cards will be drawn from the storm deck to show directions in which the storm moves and as it moves it will leave sand on the tiles it shifts. And these tiles can, and will, pile up with a fair amount of sand. The deck also contains 'Sun beats down' cards which means players lose health points. 
 
 ![Forbidden Desert tiles](/img/forbidden-desert-02.jpg)
 
@@ -95,7 +95,7 @@ Forbidden Desert is a co-operative game which see's players trying to work toget
 
 ### Conclusion
 
-Games where players co-operate to win are quite common now, but this one is very accessible for people new to the hobby, has a lovely unique-ness in that the board (Or grid of tiles) feels alive as the storm travels around. If players don't work together the sand is going to pile up and make the task impossible. Another interesting element is that each player will have a special skill. It might be the power to heal other players. Or Dig sand faster than others. One player (Meteorologist) can even spend action points to look at cards in the storm deck and potentially delay the harsh weather. It'ssimple, exciting game that players battle, as a team, and try to beat the game. The difficulty can also be ramped up if you find you've hardly broken a sweat, and can quite easily be played 1 player as you control the multiple characters running around. 
+Games where players co-operate to win are quite common now, but this one is very accessible for people new to the hobby, has a lovely unique-ness in that the board (Or grid of tiles) feels alive as the storm travels around. If players don't work together the sand is going to pile up and make the task impossible. Another interesting element is that each player will have a special skill. It might be the power to heal other players. Or Dig sand faster than others. One character (Meteorologist) can even spend action points to look at cards in the storm deck and potentially delay the harsh weather. It's a simple, exciting game that players battle, as a team, and try to collect the ship parts with maxiumum efficiency. The difficulty can also be ramped up if you find you've hardly broken a sweat, and can quite easily be played 1 player as you control the multiple characters running around. 
 
 Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-games-c550/gamewright-forbidden-desert-p131155?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
 
