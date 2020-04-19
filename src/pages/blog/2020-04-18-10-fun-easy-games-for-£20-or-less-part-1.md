@@ -2,7 +2,11 @@
 templateKey: blog-post
 title: 10 Fun, Easy Games For £20 Or Less  - Part 1
 gameID:
-  - "0"
+  - "670"
+  - "17944"
+  - "6693"
+  - "24429"
+  - "257"
 date: 2020-04-18T21:32:08.856Z
 description: >-
   Welcome to a new corner of board game write-ups and reviews. Looked after by
