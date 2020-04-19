@@ -87,13 +87,13 @@ Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/a-z-c801/s-c82
 
 #### For 2 - 4 players
 
-Can you count on your friends? Can you count? Can you? You?
+Can you count on your friends? Can you count? Can you? Can?
 
 The Mind is a deck of cards numbered 1-100. Deal each player a card. One player say's "Begin" and players must simply play all the cards face up on to the table in ascending order without saying anything to each other. If you succeed, shuffle the deck and try giving each player two cards each. See how many cards per player your group can climb to. Three? Six? Five? If you want to mix things up, have players play all their cards face down and reveal them in the order played for an extra level of tension
 
 ![The Mind cards](/img/the-mind-02.jpg)
 
-Conclusion: The mind is barely a game. Its an activity. You and your friends will gradually develop an unspoken timer. Waiting, waiting, waiting, feeling the moment when you must play your card/s. You're holding card 31, your mind races "Too much time has passed, we must be in the thirties now! Maybe?" You will fail. A lot. But you'll be playing again once the decks had a reshuffle. It doesnt sound fun when the rules are explained, but it's tense.When you succeed it feels great, you will laugh at your friends and you will shout at your friends. If it clicks with your group you can play it anywhere. Up the pub, on the train. And you will play it again and again and again and again....
+Conclusion: The mind is barely a game. Its an activity. You and your friends will gradually develop an unspoken timer. Waiting, waiting, waiting, feeling the moment when you must play your card/s. You're holding card 31, your mind races "Too much time has passed, we must be putting down thirties by now! Maybe?" You will fail. A lot. But you'll be playing again once the decks had a reshuffle. It doesnt sound fun when the rules are explained, but it's tense.When you succeed it feels great, you will laugh at your friends and you will shout at your friends. If it clicks with your group you can play it anywhere. Up the pub, on the train. And you will play it again and again and again and again....
 
 Buy for £10 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-games-c550/n-s-v-the-mind-p161759?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
 
@@ -103,7 +103,7 @@ Buy for £10 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-game
 
 Only the bravest explorers are invited to play expedition cards in five colours ranging in values between 2 and 10. Certainly not for the faint hearted. 
 
-In Lost Cities two players take it in turns to play a card, then draw a card. Playing a colour card for the first time will start your expedition of that colour. For the remainder of the game, cards of that colour are stacked on to that card and they must be of a higher value than the previous card. The aim of the expedition is to have the cards total more than 20 and you will score victory points for how high above 20 the expedition totals. So if your yellow cards total 32, the expedition will score you twelve points. The difficulty being, you start the game with extremely limited information, just the cards in your hand, and if your expedition does not total 20 at the end of the game, you score minus points equal to the deficit. All the while your opponent is trying to build up their own expeditions. 
+In Lost Cities two players take it in turns to play a card, then draw a card. Playing a colour card for the first time, to your side of the board, will start your expedition of that colour. For the remainder of the game, cards of that colour are stacked on to that card and they must be of a higher value than the previous card. The aim of the expedition is to have the cards total more than 20 and you will score victory points for how high above 20 the expedition totals. So if your yellow cards total 32, the expedition will score you twelve points. The difficulty being, you start the game with extremely limited information, just the cards in your hand, and if your expedition does not total 20 at the end of the game, you score minus points equal to the deficit. All the while your opponent is trying to build up their own expeditions. 
 
 ![Lost Cities cards](/img/lost-cities-01.jpg)
 
