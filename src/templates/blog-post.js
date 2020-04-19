@@ -40,10 +40,16 @@ const renderGames = (items, currency, gameID) => {
 
   if (items.length > 1) {
     const list = items.map((item) => {
-      const { name } = item;
+      const { name, prices, url } = item;
       return (
         <li key={name} className="heading-5">
-          {gameContent(item, currency)}
+          <span>
+            {name}:{" "}
+            <a href={url} rel="noreferrer noopener">
+              {getLowestPrice(prices)}
+              {currency}
+            </a>
+          </span>
         </li>
       );
     });
@@ -89,7 +95,7 @@ const gameIDIsNotEmptyOrZero = (id) => {
 const gameIDValid = (gameID) => {
   if (!gameID) return false;
 
-  if (gameID.length && gameID.some((el) => gameIDIsNotEmptyOrZero(el))) {
+  if (gameID.length && gameID.some((el) => el != 0)) {
     return true;
   }
 
