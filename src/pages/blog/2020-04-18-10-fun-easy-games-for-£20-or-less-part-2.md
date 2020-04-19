@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: '10 Fun, Easy Games For £20 Or Less  - Part 2'
+title: 10 Fun, Easy Games For £20 Or Less  - Part 2
 gameID:
-  - '0'
+  - "0"
 date: 2020-04-18T21:34:09.082Z
 description: >-
   Here is the second part of the list of 10 accessible games with a range of
@@ -19,19 +19,17 @@ tags:
   - Push your luck
   - Co-operative
 ---
-![](/img/photo-18-04-2020-13-15-20.jpg)
-
 ## 6. Parade
 
 #### For 2-6 players
 
-![](/img/photo-13-04-2020-17-02-29.jpg)
+![Parade box](/img/parade-02.jpg)
 
 I know precious little about Alice in Wonderland. But i would literally put on a pair of ruby slippers and walk the yellow brick road to play simple clever card games. Come down the rabbit hole and join the parade. 
 
 A player's turn consists of placing a card from their hand at the end of the parade, potentially taking cards from the parade, and then drawing a new card in to your hand from the deck. You do not want to take cards from the parade as these are placed in front of you and are worth bad negative points at the end of the game. On your turn, to determine which cards you sadly must pick up, the number on the card you play to the parade is how many cards (from right to left) you definitely don't have to pick up (So high cards are handy). Of the remaining parade cards, you pick up all that are the same colour as your card OR are a number equal to or lesser than your card. 
 
-![](/img/photo-13-04-2020-17-01-37.jpg)
+![Parade cards](/img/parade-01.jpg)
 
 *So in this example we're playing a 'red 6', we'd ignore the first six cards from right to left, then be forced to pick up the 'red 9' and the 'purple 2'.* 
 
@@ -45,17 +43,15 @@ Buy for £18 [here](https://www.board-game.co.uk/product/parade/?utm_source=Boar
 
 #### For 2-5 players
 
-![]()
-
 Tae yer bagpipe from it's sporran and yer animals from their bairns, It's Isle of Skye and its an absolute belter. A lot of the games i've listed up to now have been quick light bites. Isle of Skye has a bit more going on and will probably last 45 - 60 mins, but its very accessible, even if you don’t play lots of games and even if you don't understand my explanation. 
 
-![](/img/photo-13-04-2020-17-38-06.jpg)
+![Isle of Skye tiles and tokens](/img/isle-of-skye-01.jpg)
 
 *Each round, players will draw 3 random landscape tiles from a bag and place them on the table in front of their screen. Players will secretly decide which one of these 3 will be binned and set a price for the other 2 tiles.* 
 
 Prices are revealed by all and then in turn order, players will be able to purchase one tile from in front of any other player. The prices you set for your 2 remaining tiles are using your own money, so you should probably keep some spare if there's a tile you really want to buy. If you used 3 of your money to price a tile and another player agrees to pay you 3, you will get to keep that 6 money. If one or both of your tiles fail to sell, you get to keep the tiles but pay, to the bank, the money you used to set their price. Once everyone has had the chance to buy one tile, players place the tiles they bought and those that they didn't sell, in to their tableau forming a beautiful Scottish Kingdom. 
 
-![](/img/photo-13-04-2020-17-41-37.jpg)
+![Isle of Skye tiles](/img/isle-of-skye-02.jpg)
 
 *The landscape must match when you place a tile. Grassland to grassland, water to water, mountain to mountain. If you can connect your castle to whisky barrels via roads (like the two in this image) you will gain extra money to spend each round!* 
 
@@ -69,17 +65,15 @@ Buy for £26 [here](https://www.amazon.co.uk/dp/B012HND8S8?tag=bgpuk-21&linkCode
 
 #### For 2-6 players
 
-![]()
-
 Roll up, Roll up. Climb aboard the magnificent craft Celestia and take your pawn on a most certainly doomed mission. 
 
 Every player will begin each round in the good ship Celestia. A course of nine cities will be plotted, each with its own cardboard tile, and one of the players will be designated Captain of the ship. The Captain will roll the two dice which will display the type of challenges the ship will face to reach the next city. All the other players must decide if the Captain alone has the matching cards in hand to be able to 'Make it so' and reach terra firma (The next city space). After potentially quizzing the captain, everyone announces whether they trust the captain and will stay on the ship, or whether they will jump off at the current location for certain Loot. 
 
-![](/img/photo-13-04-2020-17-48-27.jpg)
+![Celestia game pieces](/img/celestia-02.jpg)
 
 Once everyone has decided, the Captain plays the cards from their hand to overcome the challenge and the ship moves to the next location and the next player becomes the new captain for the next leg of the trip (If they are still on the ship). However, if the Captain did not have the correct cards the ship crashes and burns and everyone goes back to the beginning. At that point, anyone who got off the ship early claims a treasure card (victory points) from their location. The victory points get better the further along your location is, so you are really pushing your luck each time, eyes widening at the prospect of being one of the lucky few who make it the farthest. There are also a bunch of other cards that give you one off abilities to use when you see fit. Like a jetpack which means you survive if the ship crashes landing you safely on the nearest location. Or an ejector seat which forces an opponent off the ship. Players continue to return to the start location and venture off on doomed journeys until someone amasses 50 points
 
-Conclusion
+### Conclusion
 
 Celestia is a beautiful game that will be sure to entertain. One minute you'll be high fiving the Captain who has guided you to safety and the next minute you'll be cheering their demise. Nobody is ever sure how many points the other players have, so its always tense as you wonder whether you need to press on to the next City despite your hand of cards being seriously limited to combat the dice rolls. The main drawback for me is that the special action cards (Like the jetpack) do not tell you what the card does, so players unfamiliar with the game are regularly having to consult the manual to see what the card does. Celestia is such a stunning looking game, when you're not playing it you could display it on your mantelpiece.
 
@@ -89,17 +83,19 @@ Buy for £20 [here](https://www.365games.co.uk/strategy-board-games/celestia-boa
 
 #### For 1-5 players
 
-![](/img/photo-13-04-2020-17-52-56.jpg)
+![Forbidden Desert box](/img/forbidden-desert-01.jpg)
 
 In a game that could almost represent the aftermath of Celestia, your ship has crashed and its parts have scattered about the desert. 
 
 Forbidden desert begins as a 5 x 5 grid of face down tiles, representing the land the players must explore. A space in the middle represents the storm. At the end of each players turn, cards will be drawn from the storm deck to show directions in which the storm moves and as it moves it will leave sand on the tiles it shifts. And these tiles can, and will, pile up with a fair amount of sand. The deck also contains 'Sun beats down' cards which means players lose health. 
 
-![](/img/photo-13-04-2020-17-58-10.jpg)
+![Forbidden Desert tiles](/img/forbidden-desert-02.jpg)
 
 Forbidden Desert is a co-operative game which see's players trying to work together to beat the game. Players, represented by coloured pawns, will each have four actions on their turn. Actions are to move from tile to tile, to remove sand that the storm has created and to excavate a tile (Which means flip the tile to reveal whats there). You can't excavate a tile if it has sand on it. Each of the four parts of your ship will have two tiles somewhere in the grid that will point you to the exact tile where the part is hidden. At that point you place the plastic toy part of the ship on that tile. Other tiles might contain useful equipment, tunnels (for quick movement and to hide from the sun) and oasis tiles to help recover lost health. Players must pick up all 4 parts of the ship and get to the launch site tile before they lose all their health.
 
-Conclusion: Games where players co-operate to win are quite common now, but this one is very accessible for people new to the hobby, has a lovely unique-ness in that the board (Or grid of tiles) feels alive as the storm travels around. If players don't work together the sand is going to pile up and make the task impossible. Another interesting element is that each player will have a special skill. It might be the power to heal other players. Or Dig sand faster than others. One player (Meteorologist) can even spend action points to look at cards in the storm deck and potentially delay the harsh weather. It'ssimple, exciting game that players battle, as a team, and try to beat the game. The difficulty can also be ramped up if you find you've hardly broken a sweat, and can quite easily be played 1 player as you control the multiple characters running around. 
+### Conclusion
+
+Games where players co-operate to win are quite common now, but this one is very accessible for people new to the hobby, has a lovely unique-ness in that the board (Or grid of tiles) feels alive as the storm travels around. If players don't work together the sand is going to pile up and make the task impossible. Another interesting element is that each player will have a special skill. It might be the power to heal other players. Or Dig sand faster than others. One player (Meteorologist) can even spend action points to look at cards in the storm deck and potentially delay the harsh weather. It'ssimple, exciting game that players battle, as a team, and try to beat the game. The difficulty can also be ramped up if you find you've hardly broken a sweat, and can quite easily be played 1 player as you control the multiple characters running around. 
 
 Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-games-c550/gamewright-forbidden-desert-p131155?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
 
@@ -109,7 +105,7 @@ Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-game
 
 Many are the evenings I will sit down with my wife and suggest we while away the hours with a nice game. Her response is usually ‘No thanks’, but fortunately for me there is a game with that very title. That previous sentence was false, No thanks is not a good game for 2. But for 3 to 7 players it is a great game that plays in just twenty minutes. It is simply a deck of cards numbered 3 to 35 and some chips that are divided amongst the players. 
 
-![](/img/photo-13-04-2020-18-02-35.jpg)
+![No Thanks cards and tokens](/img/photo-13-04-2020-18-02-35.jpg)
 
 *I do not own a copy of No Thanks, but have created a custom version using numbered cards and counters from other games.*
 
