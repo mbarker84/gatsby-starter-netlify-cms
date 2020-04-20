@@ -25,7 +25,18 @@ const gameContent = (item, currency) => {
   );
 };
 
-const renderGames = (items, currency, gameID) => {
+const sourceData = (siteName, siteUrl, logo) => {
+  return (
+    <span className="game-info__source">
+      Data from{" "}
+      <a className="game-info__link" href={siteUrl}>
+        <img className="game-info__logo" src={logo} alt={siteName} />
+      </a>
+    </span>
+  );
+};
+
+const renderGames = (items, currency, gameID, siteName, siteUrl, logo) => {
   if (gameID && !items.length) {
     return <p className="heading-5 blog-post__error">Loading...</p>;
   }
@@ -56,9 +67,11 @@ const renderGames = (items, currency, gameID) => {
 
     return (
       <div>
-        <h5>Lowest prices for games in this article:</h5>
+        <h5 class="game-info__title">
+          Lowest prices for games in this article:
+        </h5>
         <ul>{list}</ul>
-        <small>Data from Board Game Prices</small>
+        {sourceData(siteName, siteUrl, logo)}
       </div>
     );
   }
@@ -68,7 +81,7 @@ const renderGames = (items, currency, gameID) => {
       <p>
         Lowest price for {items[0].name}: {gameContent(items[0], currency)}
       </p>
-      <small>Data from Board Game Prices</small>
+      {sourceData(siteName, siteUrl, logo)}
     </div>
   );
 };
@@ -116,6 +129,9 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
   const [currency, setCurrency] = useState(null);
   const [items, setItems] = useState([]);
+  const [siteName, setSiteName] = useState(null);
+  const [logo, setLogo] = useState(null);
+  const [siteUrl, setSiteUrl] = useState(null);
 
   useEffect(() => {
     if (gameIDValid(gameID)) {
@@ -124,6 +140,9 @@ export const BlogPostTemplate = ({
         .then((data) => {
           setItems(data.items);
           setCurrency(data.currency);
+          setSiteName(data.sitename);
+          setLogo(data.logo);
+          setSiteUrl(data.url);
         })
         .catch((error) => {
           setItems("Failed");
@@ -131,6 +150,8 @@ export const BlogPostTemplate = ({
         });
     }
   }, []);
+
+  console.log(siteName, siteUrl, logo);
 
   return (
     <article className="post">
@@ -146,7 +167,14 @@ export const BlogPostTemplate = ({
               </time>
               {gameIDValid(gameID) && (
                 <div className="post__game-info">
-                  {renderGames(items, currency, gameID)}
+                  {renderGames(
+                    items,
+                    currency,
+                    gameID,
+                    siteName,
+                    siteUrl,
+                    logo
+                  )}
                 </div>
               )}
               {description && <p className="post__desc">{description}</p>}
