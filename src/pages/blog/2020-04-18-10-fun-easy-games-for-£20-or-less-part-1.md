@@ -49,6 +49,8 @@ Conclusion: Just the game you've bean waiting for. This game may look old school
 
 #### For 2-4 players
 
+![](/img/abc.jpg)
+
 One of the Bible's more believable stories is about a man who takes two of every one of the millions of animals on earth and puts them on a single boat. Animals on board replicates this, with an I-cut-you-choose mechanism, but you'll only need to make room for about 12 animals. 
 
 Each round, a veritable smorgasbord of animal tiles will be placed in a big group in the centre of the table. The first player simply splits the group, like Moses parting the red sea, in to two groups however they wish and then takes a food token from the supply (Not like Moses). With there now being two groups of animal tiles, the next player selects one of those groups and splits that into two, taking a food token. On a turn a player can, instead of splitting a group of animals, opt to snag a group of animals like.....John the Baptist, by paying food tokens equal to the number of animals in the group and placing said animals on their marvellous 3D ark.
@@ -85,6 +87,8 @@ Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/a-z-c801/s-c82
 
 #### For 2 - 4 players
 
+![](/img/mindnew.jpg)
+
 Can you count on your friends? Can you count? Can you? Can?
 
 The Mind is a deck of cards numbered 1-100. Deal each player a card. One player say's "Begin" and players must simply play all the cards face up on to the table in ascending order without saying anything to each other. If you succeed, shuffle the deck and try giving each player two cards each. See how many cards per player your group can climb to. Three? Six? Five? If you want to mix things up, have players play all their cards face down and reveal them in the order played for an extra level of tension
@@ -98,6 +102,8 @@ Buy for £10 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-game
 ## 5. Lost Cities
 
 #### For 2 players
+
+![](/img/lostnew.jpg)
 
 Only the bravest explorers are invited to play expedition cards in five colours ranging in values between 2 and 10. Certainly not for the faint hearted. 
 
