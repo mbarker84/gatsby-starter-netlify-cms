@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "the-gamekeeper",
+  "description": "A blog about board games",
   "version": "1.1.3",
   "author": "Austin Green",
   "dependencies": {

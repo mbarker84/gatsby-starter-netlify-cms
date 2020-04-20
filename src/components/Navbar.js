@@ -7,11 +7,12 @@ const Navbar = () => {
     <header className="navbar">
       <nav className="container" aria-label="main-navigation">
         <div className="navbar__content">
-          <div className="navbar__logo-wrapper">
+          <h3 className="navbar__logo-wrapper">
             <Link to="/" title="Logo">
               The Gamekeeper
             </Link>
-          </div>
+            <span className="navbar__desc">Board game news and reviews</span>
+          </h3>
           <div className="navbar__items">
             <Link to="/about">About</Link>
           </div>
