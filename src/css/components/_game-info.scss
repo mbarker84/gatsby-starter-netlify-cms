@@ -1,0 +1,16 @@
+.game-info__source {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  font-size: rem(16px);
+}
+
+.game-info__link {
+  max-width: rem(220px);
+  margin-left: 0.5rem;
+}
+
+.game-info__title {
+  font-size: rem(16px);
+  margin-bottom: 0.5rem;
+}
