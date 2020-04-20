@@ -23,7 +23,7 @@ tags:
 
 #### For 2-6 players
 
-![Parade box](/img/parade-02.jpg)
+![](/img/parade-02.jpg)
 
 I know precious little about Alice in Wonderland. But i would literally put on a pair of ruby slippers and walk the yellow brick road to play simple clever card games. Come down the rabbit hole and join the parade. 
 
