@@ -43,7 +43,7 @@ Buy for £18 [here](https://www.board-game.co.uk/product/parade/?utm_source=Boar
 
 #### For 2-5 players
 
-![](/img/try.jpg)
+![](/img/isle-of-skye-04.jpg)
 
 Tae yer bagpipe from it's sporran and yer animals from their bairns, It's Isle of Skye and its an absolute belter. A lot of the games i've listed up to now have been quick light bites. Isle of Skye has a bit more going on and will probably last 45 - 60 mins, but its very accessible, even if you don’t play lots of games and even if you don't understand my explanation. 
 
@@ -67,7 +67,7 @@ Buy for £26 [here](https://www.amazon.co.uk/dp/B012HND8S8?tag=bgpuk-21&linkCode
 
 #### For 2-6 players
 
-![](/img/celes.jpg)
+![](/img/celestia-03.jpg)
 
 Roll up, Roll up. Climb aboard a magnificent craft and take your pawn on a most certainly doomed mission. 
 
