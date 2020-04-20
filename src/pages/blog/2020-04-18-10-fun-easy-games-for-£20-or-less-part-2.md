@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 10 Fun, Easy Games For £20 Or Less  - Part 2
+title: 10 Fun, Accessible Games For £20 Or Less  - Part 2
 gameID:
   - "5734"
 date: 2020-04-18T21:34:09.082Z
