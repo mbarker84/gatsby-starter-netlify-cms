@@ -31,7 +31,7 @@ tags:
 
 #### For 2-7 players
 
-![Bohnanza box](/img/bohnanza-01.jpg)
+![](/img/bohnanza-01.jpg)
 
 Beans aren't just something you can plant in the ground to grow a stalk that rises up to a Giant's castle in the clouds. They can be much more exciting than that. In Bohnanza, you and up to seven friends can trade beans with each other, collecting sets in what is a simple and compelling card game. Sit down with plenty of drink, great conversation and a clever sociable game where you're trying to strike deals and barter with your fellow farmers. 
 
@@ -44,8 +44,6 @@ Everyone has a hand of cards (beans) and the real hook of the game is that you a
 During your opponents turns you're frantically trying to trade, or give away, the cards in your hand that you don't want so that when your turn comes round again, the first and second cards in your hand are ones that you want to plant in front of you to swell your collection.
 
 Conclusion: Just the game you've bean waiting for. This game may look old school, but its a lot of fun. Friends and family will have a great time wheeling and dealing with each other, forging temporary alliances and rivalries. But take note, this can be a bit of a runner usually lasting an hour. But it’s really fun so you wont mind. The two player game changes the rules and flow slightly but I have still found it enjoyable, though there will be better games for two coming up in this blog. This game will sing if you have 4-6 players.
-
-
 
 ## 2. Animals on Board
 
