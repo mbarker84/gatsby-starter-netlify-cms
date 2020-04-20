@@ -49,7 +49,7 @@ Conclusion: Just the game you've bean waiting for. This game may look old school
 
 #### For 2-4 players
 
-![](/img/abc.jpg)
+![](/img/animals-on-board-02.jpg)
 
 One of the Bible's more believable stories is about a man who takes two of every one of the millions of animals on earth and puts them on a single boat. Animals on board replicates this, with an I-cut-you-choose mechanism, but you'll only need to make room for about 12 animals. 
 
@@ -87,13 +87,13 @@ Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/a-z-c801/s-c82
 
 #### For 2 - 4 players
 
-![](/img/mindnew.jpg)
+![](/img/the-mind-02.jpg)
 
 Can you count on your friends? Can you count? Can you? Can?
 
 The Mind is a deck of cards numbered 1-100. Deal each player a card. One player say's "Begin" and players must simply play all the cards face up on to the table in ascending order without saying anything to each other. If you succeed, shuffle the deck and try giving each player two cards each. See how many cards per player your group can climb to. Three? Six? Five? If you want to mix things up, have players play all their cards face down and reveal them in the order played for an extra level of tension
 
-![The Mind cards](/img/the-mind-02.jpg)
+![The Mind cards](/img/the-mind-01.jpg)
 
 Conclusion: The mind is barely a game. Its an activity. You and your friends will gradually develop an unspoken timer. Waiting, waiting, waiting, feeling the moment when you must play your card/s. You're holding card 31, your mind races "Too much time has passed, we must be putting down thirties by now! Maybe?" You will fail. A lot. But you'll be playing again once the decks had a reshuffle. It doesnt sound fun when the rules are explained, but it's tense.When you succeed it feels great, you will laugh at your friends and you will shout at your friends. If it clicks with your group you can play it anywhere. Up the pub, on the train. And you will play it again and again and again and again....
 
@@ -103,7 +103,7 @@ Buy for £10 [here](https://www.chaoscards.co.uk/board-games-c800/all-board-game
 
 #### For 2 players
 
-![](/img/lostnew.jpg)
+![](/img/lost-cities-03.jpg)
 
 Only the bravest explorers are invited to play expedition cards in five colours ranging in values between 2 and 10. Certainly not for the faint hearted. 
 
