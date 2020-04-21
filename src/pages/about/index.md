@@ -9,4 +9,8 @@ title: About this blog
 
 *noun*
 
-a person employed, as on an estate or piece of land, to provide a natural environment conducive to the propagation of game
+a person employed to provide a natural environment conducive to the propagation of game
+
+
+
+\- I will mainly be using this blog as a platform to review games and write about different board game mechanisms, my likes and dislikes of those mechanisms and stand out games of that type. My reviews are most likely going to be for games I enjoy and want to recommend to the reader, leaving it to my discussions of mechanisms to highlight games I did not  like.
