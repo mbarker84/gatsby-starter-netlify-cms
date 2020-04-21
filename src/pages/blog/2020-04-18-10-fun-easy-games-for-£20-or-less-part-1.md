@@ -89,9 +89,9 @@ Buy for £20 [here](https://www.chaoscards.co.uk/board-games-c800/a-z-c801/s-c82
 
 ![](/img/the-mind-02.jpg)
 
-Can you count on your friends? Can you count? Can you? Can?
+Can you count on your friends? Can you count? 
 
-The Mind is a deck of cards numbered 1-100. Deal each player a card. One player say's "Begin" and players must simply play all the cards face up on to the table in ascending order without saying anything to each other. If you succeed, shuffle the deck and try giving each player two cards each. See how many cards per player your group can climb to. Three? Six? Five? If you want to mix things up, have players play all their cards face down and reveal them in the order played for an extra level of tension
+The Mind is a deck of cards numbered 1-100. Deal each player a card. One player say's "Begin" and players must simply play all the cards face up on to the table in ascending order without saying anything to each other. If you succeed, shuffle the deck and try giving each player two cards each. See how many cards per player your group can climb to. Three? Six? Eight? If you want to mix things up, have players play all their cards face down and reveal them in the order played for an extra level of tension
 
 ![The Mind cards](/img/the-mind-01.jpg)
 
@@ -119,4 +119,4 @@ Conclusion: A simple game for two that is full of decisions. You will push your 
 
 Buy for £19 [here](https://www.theboardgamehut.co.uk/all-products/lost-cities-the-card-game.html?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
 
-**Numbers 6 to 10 of this list can be found in my next post.....**
+**Numbers 6 to 10 of this list can be found in my next post.....[here](https://gamekeeper-blog.com/blog/2020-04-18-10-fun-easy-games-for-%C2%A320-or-less-part-2/)**
