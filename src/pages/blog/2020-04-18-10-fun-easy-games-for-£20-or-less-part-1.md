@@ -7,7 +7,7 @@ gameID:
   - "17968"
   - "24429"
   - "257"
-date: 2020-04-18T21:32:08.856Z
+date: 2020-04-21T10:20:29.455Z
 description: >-
   Welcome to a new corner of board game write-ups and reviews. Looked after by
   The Game Keeper. I have compiled a list of 10 accessible games with a range of
