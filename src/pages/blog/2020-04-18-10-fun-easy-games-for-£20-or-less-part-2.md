@@ -7,7 +7,7 @@ gameID:
   - "16017"
   - "4755"
   - "1256"
-date: 2020-04-18T21:34:09.082Z
+date: 2020-04-21T10:20:51.974Z
 description: >-
   Here is the second part of the list of 10 accessible games with a range of
   player counts and mechanisms.
@@ -122,3 +122,5 @@ Each round a card from the deck is turned face up. Players in turn will decide w
 A really simple game with lots of great moments fuelled by the suspense of who is going to take the cards, especially the high ones. Some cards are removed from the deck at the beginning of the game, so the card you want to plug a gap in your run might not even be in there. At first it may seem like there would be very little strategy, but it is surprising how many tough decisions you are faced with and sometimes it is useful just to stock up on more chips by taking a card slightly early. At a cost of £13? ‘Yes please’
 
 Buy for £13 [here](https://firestormcards.co.uk/VR1029?utm_source=BoardGamePrices.co.uk&utm_medium=pricecomparison&utm_campaign=bgp)
+
+If you managed to read this part two before reading part 1, you can find it [here](https://gamekeeper-blog.com/blog/2020-04-18-10-fun-easy-games-for-%C2%A320-or-less-part-1/)
