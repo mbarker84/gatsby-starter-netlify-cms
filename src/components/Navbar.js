@@ -12,7 +12,7 @@ const Navbar = () => {
             <Link to="/" title="Logo">
               The Gamekeeper
             </Link>
-            <span className="navbar__desc">Board game news and reviews</span>
+            <span className="navbar__desc">Board game reviews and musings</span>
           </h3>
           <div className="navbar__items">
             <Link to="/about">About</Link>
