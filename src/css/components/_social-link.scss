@@ -1,0 +1,10 @@
+.social-link {
+  display: block;
+  width: rem(30px);
+  height: rem(30px);
+
+  @media (min-width: $md) {
+    width: rem(35px);
+    height: rem(35px);
+  }
+}

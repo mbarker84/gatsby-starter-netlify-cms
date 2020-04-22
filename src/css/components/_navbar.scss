@@ -69,4 +69,14 @@
 
 .navbar__items {
   margin-left: auto;
+  display: flex;
+  align-items: center;
+
+  > * {
+    margin-right: 1rem;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
 }

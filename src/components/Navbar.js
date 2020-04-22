@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
+import TwitterLink from "./TwitterLink";
 import "../css/styles.scss";
 
 const Navbar = () => {
@@ -15,6 +16,7 @@ const Navbar = () => {
           </h3>
           <div className="navbar__items">
             <Link to="/about">About</Link>
+            <TwitterLink />
           </div>
         </div>
       </nav>
