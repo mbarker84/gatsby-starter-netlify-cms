@@ -21,7 +21,7 @@ class BlogRoll extends React.Component {
                     <PreviewCompatibleImage
                       imageInfo={{
                         image: post.frontmatter.featuredimage,
-                        alt: `featured image thumbnail for post ${post.frontmatter.title}`
+                        alt: `featured image thumbnail for post ${post.frontmatter.title}`,
                       }}
                     />
                   </div>
@@ -49,9 +49,9 @@ class BlogRoll extends React.Component {
 BlogRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+      edges: PropTypes.array,
+    }),
+  }),
 };
 
 export default () => (
@@ -76,7 +76,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 440, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
