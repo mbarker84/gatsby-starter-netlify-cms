@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Barenpark
+title: Barenpark - A Review
 gameID:
   - "20204"
   - "19160"
