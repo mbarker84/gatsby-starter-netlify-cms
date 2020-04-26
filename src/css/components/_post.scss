@@ -96,6 +96,18 @@
     }
   }
 
+  ul {
+    list-style-type: disc;
+  }
+
+  li + li {
+    margin-top: 0.5rem;
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
   @media (min-width: $md) {
     padding: 3rem;
   }
