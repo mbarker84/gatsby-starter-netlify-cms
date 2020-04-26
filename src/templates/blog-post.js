@@ -184,7 +184,9 @@ export const BlogPostTemplate = ({
       </header>
       <div className="container-sm">
         <div class="post__content">
-          <PostContent content={content} />
+          <div className="post__richtext">
+            <PostContent content={content} />
+          </div>
           {tags && tags.length ? (
             <div className="taglist">
               <h4>Tags</h4>
