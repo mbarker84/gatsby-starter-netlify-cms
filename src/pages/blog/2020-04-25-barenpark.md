@@ -9,7 +9,7 @@ description: For 2 to 4 Players
 featuredpost: true
 featuredimage: ../img/barenpark_image3.jpg
 tags:
-  - Tile placement
+  - Tile laying
   - Bears
 ---
 
