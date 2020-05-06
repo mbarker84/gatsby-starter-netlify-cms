@@ -7,7 +7,7 @@ date: 2020-05-06T21:23:37.968Z
 description: >
   After writing my ‘10 Fun and accessible games’ list recently, i looked back
   and was struck by the fact that there were very few recent games. The newest
-  game being ‘The Mind’, which was released in 2018. 
+  game being ‘The Mind’, which was released in 2018.
 
 
   I think the reason for this was that I was trying to go with games that had stood up to scrutiny. I have played them numerous times and yet i still want to play them time and time again. I could safely recommend them to anyone and be confident they would be well received.
@@ -18,13 +18,14 @@ description: >
 
   Here’s one…
 featuredpost: false
-featuredimage: /img/ps1.jpg
+featuredimage: ../img/ps1.jpg
 tags:
   - Set collection
   - Card drafting
   - Card game
   - Salad
 ---
+
 ### Point Salad
 
 #### For 2 to 6 players
@@ -40,15 +41,13 @@ Point salad is made up of a load of cards with one of six different salad items 
 \
 On a players turn they will have a selection of cards laid out thusly
 
-![](/img/ps2.jpg)
+![](../img/ps2.jpg)
 
 \
 And players will take it in turns to do one of the following:
 
-* Take 2 of the 6 visible salad cards
-* Take 1 of the 3 visible victory point cards.
-
-
+- Take 2 of the 6 visible salad cards
+- Take 1 of the 3 visible victory point cards.
 
 Salad cards taken are replaced with new cards from the pile at the head of their column.
 
@@ -61,7 +60,7 @@ When all the cards have been taken, the game ends.
 \
 Thats it.
 
-![](/img/ps3.jpg)
+![](../img/ps3.jpg)
 
 \
 Verdict: Can’t-be-beet or Who-gives-a-toss?
