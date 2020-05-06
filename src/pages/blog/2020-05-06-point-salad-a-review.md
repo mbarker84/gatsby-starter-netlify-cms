@@ -25,7 +25,6 @@ tags:
   - Card game
   - Salad
 ---
-
 ### Point Salad
 
 #### For 2 to 6 players
@@ -33,7 +32,7 @@ tags:
 Julius Caesar took lettuce, lemon, mustard and egg and made a delicious salad. Mr/Mrs Sundried tomato took a tomato and made vomit-on-a-plate. Messr’s Johnson, Melvin and Stankewich have made a small salad card game. But which way has it gone?
 
 \
-Take a half dozen salad bits, mix them up, add 1 to 5 of your friends and sit for 15-30 minutes. Garnish with a sprinkle of...actual food.
+Take a half dozen salad bits, mix them up, add 1 to 5 of your friends and sit for 15-30 minutes. Garnish with...actual food.
 
 \
 Point salad is made up of a load of cards with one of six different salad items on them. On the reverse of the card is a description of how one or more of those salad items will score you victory points at the end of the game. Eg. ‘2 points per onion’ or ‘8 points for each set of onion, pepper & cabbage’ or ‘3 points for each tomato, but minus 1 point for each carrot & onion’
@@ -46,8 +45,8 @@ On a players turn they will have a selection of cards laid out thusly
 \
 And players will take it in turns to do one of the following:
 
-- Take 2 of the 6 visible salad cards
-- Take 1 of the 3 visible victory point cards.
+* Take 2 of the 6 visible salad cards
+* Take 1 of the 3 visible victory point cards.
 
 Salad cards taken are replaced with new cards from the pile at the head of their column.
 
