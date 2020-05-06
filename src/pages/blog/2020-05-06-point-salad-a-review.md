@@ -5,12 +5,12 @@ gameID:
   - "29040"
 date: 2020-05-06T21:23:37.968Z
 description: >
-  After writing my ‘10 Fun and accessible games’ list recently, i looked back
-  and was struck by the fact that there were very few recent games. The newest
+  After writing my ‘10 Fun and accessible games’ list recently, I looked back
+  and was struck by the fact that there were very few RECENT games. The newest
   game being ‘The Mind’, which was released in 2018.
 
 
-  I think the reason for this was that I was trying to go with games that had stood up to scrutiny. I have played them numerous times and yet i still want to play them time and time again. I could safely recommend them to anyone and be confident they would be well received.
+  I think the reason for this was that I was trying to go with games that had stood up to scrutiny. I have played them numerous times and yet I still want to play them time and time again. I could safely recommend them to anyone and be confident they would be well received.
 
 
   This got me thinking about which recently released games are under £20 and are both fun and accessible. Maybe in a year or two they would make a similar list.
