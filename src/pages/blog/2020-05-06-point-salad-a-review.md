@@ -29,7 +29,7 @@ tags:
 
 #### For 2 to 6 players
 
-Julius Caesar took lettuce, lemon, mustard and egg and made a delicious salad. Mr/Mrs Sundried tomato took a tomato and made vomit-on-a-plate. Messr’s Johnson, Melvin and Stankewich have made a small salad card game. But which way has it gone?
+Julius Caesar took lettuce, lemon, mustard and egg and made a delicious salad. Mr/Mrs Sundried tomato took a tomato and made vomit-on-a-plate. Johnson, Melvin and Stankewich have designed a small salad card game. But which way has it gone?
 
 \
 Take a half dozen salad bits, mix them up, add 1 to 5 of your friends and sit for 15-30 minutes. Garnish with...actual food.
