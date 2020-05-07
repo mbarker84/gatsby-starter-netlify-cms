@@ -72,3 +72,7 @@ The key to this game is finding an invisible balance. There is going to be a poi
 But on the flip side of that, sometimes luck is good for a game. Especially a game that is only 20 mins long. A sprinkling of luck in this salad means an inexperienced player can beat someone who has played it a lot. Everyone who plays can feel like they have a chance, if things go their way. And if the deck conspires against you and the salad you pick is not what you want, the game will end soon and you can try again.
 
 The art on the cards is functional, the design is clear and concise. It's not a beautiful looking dish, but the real hook here is the more-ish gameplay.
+
+The Gamekeeper Final Score:
+
+# 8/10
