@@ -12,7 +12,6 @@ tags:
   - Tile laying
   - Bears
 ---
-
 Set in some kind of grim dystopian future where all the animals are gone. Red Kites? Dead kites. Wildebeest? Killed beast. Canadian Geese? Rest in peace. Frogs? Croaked. Pelican? Pelican't breathe. All gone that is...except the bears. But the punters, now starved of cutesy, cuddly, sub species to lay their greasy eyeballs on are clamouring to visit zoo's to see bears. And Koalas which technically aren't bears but presumably said they were bears to avoid the mass culling. Luckily for you, you're in the business of bears and, what we shall for purposes of this game call koala ‘bears’.
 
 ![](../img/barenpark_image1.jpg)
@@ -21,18 +20,18 @@ Set in some kind of grim dystopian future where all the animals are gone. Red Ki
 
 The types of tiles are as follows:
 
-- Green tiles: Toilets, food streets and rivers. Not home to animals. Not gonna score you any points. But they will helpfully plug the small gaps around your park
-- White tiles: The medium size tiles featuring bears. One shape per bear type. (Victory point numbers on the tiles decrease with each one taken)
-- Orange tiles: The larger bear prisons, awkward shapes but big points. (Only one tile of each shape)
+* Green tiles: Toilets, food streets and rivers. Not home to animals. Not gonna score you any points. But they will helpfully plug the small gaps around your park
+* White tiles: The medium size tiles featuring bears. One shape per bear type. (Victory point numbers on the tiles decrease with each one taken)
+* Orange tiles: The larger bear prisons, awkward shapes but big points. (Only one tile of each shape)
 
 Each player will start with a green tile in their supply. 1st player gets a toilet and sizes increase with each subsequent player.
 
 A turn in Barenpark is simple. Place a tile from your supply on your park board adjacent to a previously placed tile (Your first tile can go anywhere). If you cover one or more icons, do the following:
 
-- Green wheelbarrow icon - Take a green tile and add it to your supply
-- White cement truck icon - Take a white tile and add it to your supply.
-- Orange digger icon - Take an orange tile and add it to your supply
-- Workmen people icon - Take a random empty park board from the supply and extend your park in one direction. You cannot extend on the side where your park entrance is.
+* Green wheelbarrow icon - Take a green tile and add it to your supply
+* White cement truck icon - Take a white tile and add it to your supply.
+* Orange digger icon - Take an orange tile and add it to your supply
+* Workmen people icon - Take a random empty park board from the supply and extend your park in one direction. You cannot extend on the side where your park entrance is.
 
 ![](../img/barenpark_image2.jpg)
 
@@ -51,3 +50,7 @@ Barenpark is one of the easiest games to learn that i have ever encountered. No 
 This game is perfect for people new to board games. It has a quick setup time, its easy to learn, it's easy to play, has some good decisions for players to make and only takes 30-45 mins. However, the only reason i can imagine a zoo solely focusing on bears would exist, is if all the other animals in the world are gone. And if you can stomach that, then fine, this game is a great buy.
 
 As a final note, these games placing tetris like tiles are becoming more common in the hobby. Barenpark is very similar to another game called Cottage Garden which also has that race-to-cover-boards-with-shapes feel to it. So if the bear theme doesn't quite do it for you, perhaps flower beds and cat tokens might be more in your wheelhouse.
+
+The Gamekeeper Final Score:
+
+# 8/10
