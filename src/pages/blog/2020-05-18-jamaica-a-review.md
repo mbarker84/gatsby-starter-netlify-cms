@@ -44,8 +44,6 @@ In the picture above, one player has rolled the dice and decided the 2 will be t
 * Play our middle card - We will gain 2 Food tokens and then gain 5 cannon tokens
 * Play our right card - We will move back 2 spaces and then move forward 5 spaces
 
-
-
 ![](/img/photo-17-05-2020-19-17-48.jpg)
 
 \
@@ -55,8 +53,6 @@ Each player has their own ‘ships hold’ board with five spaces to store resou
 When a player moves their ship forwards or backwards, the space they land on will often trigger a cost.
 
 ![](/img/photo-17-05-2020-19-18-40.jpg)
-
-
 
 If the space has a number of small squares on it you must pay food, equal to the number of squares, back to the supply from your hold/s. Your hardworking pirates have got to eat after all.
 
@@ -92,8 +88,6 @@ At the end of the round in which one or more players cross the finish line playe
 
 The winner of the game is the player with the most points, so not necessarily the player who crossed the line first.
 
-
-
 ## Jolly Roger or Ship’s mess?
 
 Jamaica is a very straight forward game to play. You have 3 cards in your hand, you pick one and your ship will move, or you’ll gain resources, or both. For this reason anyone can play the game. Pick a card and see what happens. You’ll pick the strategy up as you go along. And there can be a fair bit of strategy despite the simplicity of turns. You want to get round the board quite quickly. Grabbing treasure cards before other players, can get you great upgrades or victory point cards, but it then makes you a target for other players as they will want to steal your precious treasure from you. Maybe you just load up on cannons and spend your time stealing the resources you need from everybody else! All the resources are important in some way, so as long as you’re not neglecting any of them, you should do ok.
@@ -102,13 +96,14 @@ And managing your resources becomes its own little mini game. When you gain reso
 
 I love the simplicity of combat. Cannon tokens plus the die roll gives you your combat score. But the explosion side of the dice means combat is always tense. A player who might be having a rough time and seem like the underdog can still grab a victory out of nowhere.
 
-Another interesting side plot are the victory point treasure cards. They can be big points. But they can also be big minus points. But your opponents won’t know what you found because you can keep it secret. And then you can fight them hoping to lose, so that they steal your treasure and then realise you’ve passed them negative points!
+Another interesting side plot are the victory point treasure cards. They can be big points. But they can also be big minus points. But your opponents won’t know what you found because you can keep it secret. And then when you fight them, they might steal your cursed treasure if they win. And if you win, you have the option to give them the cursed treasure rather than stealing something of theirs!
 
 If it’s not obvious by now, I love Jamaica. It’s a fun game with a lot of great interaction between players and is not going to take too long to play even with 5 or 6 players. I would however not recommend this game for 2 players. There are rules that add a third dummy player, but it will sink at 2 players. It will be fine with 3 players but really the game will be at its best with lots of combat, players landing on each other's spaces so 4-6 players is really the best here.
 
 One final note to say the rulebook is.....odd. Instead of a book, it’s a big fold out map and it is totally impractical. Thankfully you won't have to read it very often because the rules are pretty straight forward. Grab your crew and hop aboard!
 
 ## \
+
 The Gamekeeper Final Score:
 
 ### Pieces of 8.5/10
