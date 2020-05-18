@@ -16,7 +16,6 @@ tags:
   - Resource management
   - Simultaneous action selection
 ---
-
 # Jamaica
 
 ## For 2 to 6 players
@@ -29,9 +28,9 @@ When playing a game of Jamaica you will be instantly transported to the pirating
 \
 Each player will place their ship at Port Royal and give their personal deck a quick shuffle, drawing three cards to their hand. A game round is pretty straightforward, one player will roll the 2 six-sided dice and decide which number will be the first action and which will be the second action. All players will then have to select a card from their hand and, in turn order, carry out the two actions shown on their chosen card. The actions will be:
 
-- Green forward arrow - Move your ship forward the number of spaces shown on the dice
-- Red backward arrow - Move your ship back the number of spaces shown on the dice
-- Food/Cannons/Gold symbol - Gain resources of that type equal to the number shown on the dice
+* Green forward arrow - Move your ship forward the number of spaces shown on the dice
+* Red backward arrow - Move your ship back the number of spaces shown on the dice
+* Food/Cannons/Gold symbol - Gain resources of that type equal to the number shown on the dice
 
 \
 So for example…
@@ -41,9 +40,9 @@ So for example…
 \
 In the picture above, one player has rolled the dice and decided the 2 will be the first action and the 5 will be the second action. Each player has 3 cards in their hand and so we have the following 3 options for our turn (Note. First symbol is in top left corner, 2nd symbol is in top right corner of each card. The rest of the card is just artwork)
 
-- Play our left card - We will gain 2 Gold coins and then move forward 5 spaces
-- Play our middle card - We will gain 2 Food tokens and then gain 5 cannon tokens
-- Play our right card - We will move back 2 spaces and then move forward 5 spaces
+* Play our left card - We will gain 2 Gold coins and then move forward 5 spaces
+* Play our middle card - We will gain 2 Food tokens and then gain 5 cannon tokens
+* Play our right card - We will move back 2 spaces and then move forward 5 spaces
 
 ![](../img/photo-17-05-2020-19-17-48.jpg)
 
@@ -65,27 +64,27 @@ If you land on a square with a treasure token, you remove the token and take a t
 
 If at any point you land on a space occupied by another player, get ready to battle! In battle the player that moved into the space is the attacker and the player that was already there, is the defender. Battle happens like this:
 
-- Attacker decides how many cannons they want to spend from those in their holds.
-- Attacker rolls the combat die (A die that shows even numbers from 2 to 10 or an explosion)
-- Attackers combat value is the number on the die + number of cannon tokens spent
-- Defender then decides how many cannons they want to spend
-- Defender rolls the combat die
-- Defender’s combat value is the number on the die + number of cannon tokens spent
+* Attacker decides how many cannons they want to spend from those in their holds.
+* Attacker rolls the combat die (A die that shows even numbers from 2 to 10 or an explosion)
+* Attackers combat value is the number on the die + number of cannon tokens spent
+* Defender then decides how many cannons they want to spend
+* Defender rolls the combat die
+* Defender’s combat value is the number on the die + number of cannon tokens spent
 
 Highest combat value wins. However, if either player had rolled the explosion symbol on the combat die, they would immediately win the combat.
 
 The combat winner gets to choose their prize from the losers ship. Either a treasure card (if they have one) or the contents of one of the losers holds.
 
-When each player has carried out the actions on their card in turn order and resolved anything in the spaces they may land on, each player will draw a new card into their hand and the next round will begin. A different player will roll the two dice and decide the order, with play continuing like this until one player’s ship crosses the finish line at Port Royal.
+When each player has carried out the actions on their card in turn order and resolved anything in the spaces they may land on, each player will draw a new card into their hand and the next round will begin. A different player will roll the two dice and decide the order, with play continuing like this until one or more player’s ships arrive back at Port Royal.
 
 ![](../img/photo-17-05-2020-19-20-27.jpg)
 
 \
 At the end of the round in which one or more players cross the finish line players will add up the following to gain their final score:
 
-- The number shown on the space a player occupies at the end of the race, if it has one (Players that arrive at Port Royal gain 15 points)
-- The number of coins in their holds
-- The number of victory points from treasure cards, subtracting any negative victory point treasure cards.
+* The number shown on the space a player occupies at the end of the race, if it has one (Players that arrive at Port Royal gain 15 points)
+* The number of coins in their holds
+* The number of victory points from treasure cards, subtracting any negative victory point treasure cards.
 
 The winner of the game is the player with the most points, so not necessarily the player who crossed the line first.
 
