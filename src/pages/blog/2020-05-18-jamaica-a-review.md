@@ -80,13 +80,13 @@ When each player has carried out the actions on their card in turn order and res
 ![](../img/photo-17-05-2020-19-20-27.jpg)
 
 \
-At the end of the round in which one or more players cross the finish line players will add up the following to gain their final score:
+At the end of the round in which one or more players arrive back at Port Royal players will add up the following to gain their final score:
 
 * The number shown on the space a player occupies at the end of the race, if it has one (Players that arrive at Port Royal gain 15 points)
 * The number of coins in their holds
 * The number of victory points from treasure cards, subtracting any negative victory point treasure cards.
 
-The winner of the game is the player with the most points, so not necessarily the player who crossed the line first.
+The winner of the game is the player with the most points, so not necessarily the player who finishes the race first.
 
 ## Jolly Roger or Ship’s mess?
 
