@@ -18,7 +18,7 @@ tags:
 ---
 # Jamaica
 
-## For 2 to 6 players 
+## For 2 to 6 players
 
 ## Age: 8+
 
@@ -105,5 +105,7 @@ If it’s not obvious by now, I love Jamaica. It’s a fun game with a lot of gr
 One final note to say the rulebook is.....odd. Instead of a book, it’s a big fold out map and it is totally impractical. Thankfully you won't have to read it very often because the rules are pretty straight forward. Grab your crew and hop aboard!
 
 ### The Gamekeeper Final Score:
+
+*Maybe if being a real Pirate was this much fun, they wouldn't have gone extinct*
 
 #### Pieces of 8.5/10
