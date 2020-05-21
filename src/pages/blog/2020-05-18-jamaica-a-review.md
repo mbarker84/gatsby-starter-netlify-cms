@@ -18,7 +18,9 @@ tags:
 ---
 # Jamaica
 
-## For 2 to 6 players
+## For 2 to 6 players 
+
+## Age: 8+
 
 \
 When playing a game of Jamaica you will be instantly transported to the pirating world by the stunning artwork of the game board. Your ships will be cruising around a beautiful caribbean island, strategically hoping to evade your friends one minute and attacking them the next, as you try to swipe their valuables from under their noses. And haven't we all been crying out for a race where it's not necessarily the winner who wins? ......Yes?..... shut up, just hear me out...
