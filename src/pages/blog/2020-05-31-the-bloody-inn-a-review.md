@@ -116,7 +116,7 @@ One final thing to note. There is a fifth action that the rulebook states you ca
 
 ### Hotshot or Grave Mistake?
 
-The Bloody Inn is one of my favourite games to look at, it is visually stunning. It obviously has a grim, dark theme that could put some people off, so therefore it may have been tempting to go with more lighthearted or comical artwork in a bid to make the game less grotesque. But I love how the illustrations give it an almost cinematic quality. The different characters that enter the inn just ooze character and look as though any of them could, quite rightly, be a murderer. And that’s before you add the expansion ‘Carnies’ which for me was a must-buy because I was so eager to add even more colourful characters to the massacre.
+The Bloody Inn is one of my favourite games to look at, it is visually stunning. It obviously has a grim, dark theme that could put some people off, so therefore it may have been tempting to go with more lighthearted or comical artwork in a bid to make the game less grotesque. But I love how the illustrations give it an almost cinematic quality. The different characters that enter the inn just ooze character and look as though any of them could, quite rightly, be involved in shady dealings. And that’s before you add the expansion ‘Carnies’ which for me was a must-buy because I was so eager to add even more colourful characters to the massacre.
 
 ![](../img/photo-30-05-2020-16-21-56.jpg)
 
