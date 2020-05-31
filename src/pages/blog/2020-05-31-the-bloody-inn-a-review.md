@@ -92,7 +92,7 @@ The face up guest whose annex we have built will now either grant us an instant 
 
 For example, we could build the annex of the Viscount card in our hand. His card would go on the table and we could play the Mechanic card to pay for it. As the Mechanic card has the ‘Build annex’ aptitude symbol (Trowel) he will come back to our hand. The Viscount annex immediately awards us 6 money. If we were to instead build the annex of the Mechanic card and play one of the other cards from our hand to pay for it, his annex grants us an ability for the rest of the game that states: ‘From now on, play 1 accomplice fewer to perform the Build an Annex action’.
 
-And finally the fourth action we can play is ‘Bury a corpse’. Simply choose a dead guest from in front of you, play cards from your hand according to its rank and place the card under an annex. Gain money equal to the coin number on the guest card. Any of the cards you played with the ‘bury a corpse’ symbol return to your hand.
+And finally the fourth action we can play is ‘Bury a corpse’. Simply choose a dead guest from in front of you, play cards from your hand according to its rank and place the card under an annex. Gain money equal to the coin number on the guest card. Any accomplices you played with the ‘bury a corpse’ symbol return to your hand.
 
 ![](../img/photo-30-05-2020-16-17-51.jpg)
 
