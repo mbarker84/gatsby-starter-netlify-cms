@@ -101,7 +101,7 @@ An annex can only hold a number of corpses equal to its Rank number. So in the i
 
 If you do not have room for the corpse in one of your annexes you can bury it in an opponent's annex. You must, however, split the loot with that opponent.
 
-Another thing to be aware of, is the presence of Peasants. They are a special type of guest, limited in number (players start with 2 each) and when you play them from your hand as accomplices, to perform actions, they return to the bistro pile rather than the exit pile. When you take a bribe action, you can choose to take 1 or 2 Peasants into your hand from the bistro rather than bribing a normal guest.
+Another thing to be aware of, is the presence of Peasants. They are a special type of guest, limited in number (players start with 2 each) and when you play them from your hand as accomplices, to perform actions, they return to the 'bistro pile' rather than the exit pile. When you take a bribe action, you can choose to take 1 or 2 Peasants into your hand from the bistro rather than bribing a normal guest.
 
 When every player has performed one action in turn order, everyone performs a second action in turn order, after which, the round ends. At the end of a round the following happens:
 
