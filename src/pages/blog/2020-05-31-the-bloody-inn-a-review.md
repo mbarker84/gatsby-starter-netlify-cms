@@ -39,7 +39,7 @@ In ‘The Bloody Inn’ players take on the roles of a greedy family running an 
 
 ![](../img/photo-30-05-2020-16-08-33.jpg)
 
-Each player is going to start the game owning one room of the inn marked by a key token in their player colour. At this stage some of the rooms will be owned by nobody, marked with a grey key token. A round begins with the first player welcoming guests to the inn by drawing from the deck of cards, filling each room with a total of 1 guest, until all rooms with a key token have a guest assigned to them.
+Each player is going to start the game owning one room of the inn marked by a key token in their player colour. At this stage some of the rooms will be owned by nobody, marked with a grey key token. A round begins with the first player welcoming guests to the inn by drawing from the deck of cards, filling each room with 1 guest, until all rooms with a key token have a guest assigned to them.
 
 The main phase will now begin as players interact with the guest cards in the inn and also those in their hands, known as accomplices. There are four actions players can perform:
 
@@ -48,11 +48,7 @@ The main phase will now begin as players interact with the guest cards in the in
 * Build an annex
 * Bury a corpse
 
-
-
 ![](../img/photo-30-05-2020-16-10-31.jpg)
-
-
 
 The part of the guest card I want you to focus on first is the left hand number showing between 0 and 3 that denotes the guest’s rank. This is the number that shows how many cards (accomplices) you must play from your hand to carry out any of the four main actions onthisguest card.
 
@@ -118,8 +114,6 @@ A new round begins with the next player welcoming guests to each room of the inn
 
 One final thing to note. There is a fifth action that the rulebook states you can leave out when you are new to the game and I definitely agree. It is to ‘Launder money’ and basically means you have to spend precious actions every now and then to manage your money or you risk losing some when you reach a certain amount. Feel free to include it in your games when you feel ready.
 
-
-
 ### Hotshot or Grave Mistake?
 
 The Bloody Inn is one of my favourite games to look at, it is visually stunning. It obviously has a grim, dark theme that could put some people off, so therefore it may have been tempting to go with more lighthearted or comical artwork in a bid to make the game less grotesque. But I love how the illustrations give it an almost cinematic quality. The different characters that enter the inn just ooze character and look as though any of them could, quite rightly, be a murderer. And that’s before you add the expansion ‘Carnies’ which for me was a must-buy because I was so eager to add even more colourful characters to the massacre.
@@ -140,8 +134,6 @@ Another very small thing, from a thematic point of view, I think the names of th
 And again from a purely thematic viewpoint, ‘Build an annex’ is a strange term to be using. Are my accomplices and I actually building these places to bury the corpses in? They are given names on the card and some examples are: Butchers shop, Park, Brewery, Chapel. I’m not saying I have a better term, but it doesn’t quite fit in with what’s happening in the game that we have time to build a butchers shop. Something like ‘Expand your operation’ may not roll off the tongue, but i think gaining these new locations in this way, makes more sense thematically. I stress, this is a very minor complaint and obviously doesn't affect the gameplay, but can make the game easier to understand for new players.
 
 The Bloody Inn is a really good game, the theme is going to split people. I love it, but I can understand it’s not for everyone. There are so many board games, and there are themes that get repeated so often. When a game like this exists with such a unique theme, I think it deserves to be lauded. I would much rather new games be made with unusual themes like this, than the same old Fantasy or Cthulhu or Cowboys.
-
-
 
 ### The Gamekeeper Final Score:
 
