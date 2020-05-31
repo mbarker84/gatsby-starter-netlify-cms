@@ -50,7 +50,7 @@ The main phase will now begin as players interact with the guest cards in the in
 
 ![](../img/photo-30-05-2020-16-10-31.jpg)
 
-The part of the guest card I want you to focus on first is the left hand number showing between 0 and 3 that denotes the guest’s rank. This is the number that shows how many cards (accomplices) you must play from your hand to carry out any of the four main actions onthisguest card.
+The part of the guest card I want you to focus on first is the left hand number, above the house outline, showing between 0 and 3 and denotes the guest’s rank. This is the number that shows how many cards (accomplices) you must play from your hand to carry out any of the four main actions onthisguest card.
 
 The symbol in the top right of each card is one of four symbols that each represent one of the four actions.
 
