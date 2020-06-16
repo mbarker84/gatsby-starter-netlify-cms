@@ -96,6 +96,8 @@ A turn off for me with some pick-and-pass drafting games is that occurrences of 
 
 The other thing is drafting games don’t generally work well with two players. You often can’t help but hate draft and you’re also gonna keep seeing the same cards going back and forth. But Bunny Kingdom has 2 player rules that I enjoy, where each player has a hand of cards in reserve that cards are taken from and added to the real hands of cards meaning it stays fresh and interesting.
 
+![](../img/photo-14-06-2020-16-30-14.jpg)
+
 The theme of this game may instantly put some people off. A game about rabbits might suggest a lack of substance. But the gameplay is really engaging and you have a ton of interesting decisions. The art on the board and cards is amazing, you will not be able to take your eyes off it and I really am finding it hard to come up with any negatives. The main negative for me would be the end game scoring. It can be a bit math heavy. Adding up all the fief scores and all the mission scores with a fairly crowded board can be hard work. I find if players don’t discard their cards after use and display them nicely with other cards by type, it can make adding up totals at the end a lot easier. For example, if i have a parchment that scores me two victory points per rabbit that provides a fish resource, the cards laid out in front of me will show how many i have, so i don't have to laboriously scan the board. Though splaying your numerous cards out in this way is kind of dependent on having a large table.
 
 ### The Gamekeeper Final Score:
