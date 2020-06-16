@@ -14,7 +14,7 @@ tags:
   - rabbits
   - area control
 ---
-![](../img/photo-14-06-2020-16-38-25.jpg)
+
 
 A small bunny sits on his Grandpa's knee.
 
@@ -46,7 +46,7 @@ A small bunny sits on his Grandpa's knee.
 
 ![](../img/photo-14-06-2020-16-24-38.jpg)
 
-The Kingdom of Bunny starts as a big, sprawling, beautiful, but mostly empty, board of promise. Territories (squares of the grid) featuring lakes, mountains, carrot fields, forests and plains are just waiting to be sprinkled with colourful bunnies and buildings. Each of the four rounds begin with all players drawing a hand of 10 cards (12 in a three player game) choosing two cards they want, passing the rest on to be picked up by their neighbour and then actioning the pair of cards they selected. This continues until the hands are plucked to nothing with players scoring points at the end of each round once buildings have been placed. That's it. That's how you play!
+The Kingdom of Bunny starts as a big, sprawling, beautiful, but mostly empty, board of opportunities. Territories (squares of the grid) featuring lakes, mountains, carrot fields, forests and plains are just waiting to be sprinkled with colourful bunnies and buildings. Each of the four rounds begin with all players drawing a hand of 10 cards (12 in a three player game) choosing two cards they want, passing the rest on to be picked up by their neighbour and then actioning the pair of cards they selected. This continues until the hands are plucked to nothing with players scoring points at the end of each round once buildings have been placed. That's it. That's how you play!
 
 Now all you need to know is what the different cards do:
 
