@@ -78,9 +78,7 @@ Here is a fief controlled by the yellow player. It is made up of 6 adjacent bunn
 
 So you want to be drafting coordinate cards to place your bunnies on the board and you want to be drafting cards that provide buildings to place into your fiefs so they actually score you some points each round. Each territory square can only house one type of building but you are always free to draft building cards regardless of whether you currently have the fief real estate to place it in. You can just place the building on to the board later on when you do have room. The territories provide the 3 resources of fish, wood and carrots but, when drafting, keep a lookout for cards that provide you with other unique resource buildings (Gold, diamonds, pearls etc)
 
-#### \
-
-Parchment cards
+#### Parchment cards
 
 ![](../img/photo-14-06-2020-16-19-18.jpg)
 
