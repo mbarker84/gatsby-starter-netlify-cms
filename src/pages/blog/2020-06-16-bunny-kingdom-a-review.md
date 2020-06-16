@@ -10,7 +10,7 @@ description: Bunny Kingdom is a game by Richard Garfield that has players take
 featuredpost: false
 featuredimage: ../img/photo-14-06-2020-16-29-40.jpg
 tags:
-  - Drafting
+  - Card drafting
   - rabbits
   - area control
 ---
@@ -104,4 +104,4 @@ The theme of this game may instantly put some people off. A game about rabbits m
 
 *This Rabbit’s a bit gamey*
 
-#### 9/10
+## 9/10
