@@ -68,7 +68,7 @@ Lake squares produce fish, forest squares produce wood and carrot field squares 
 
 You’re also going to want to be drafting cards that grant you buildings to place in your fiefs and these come in two varieties. The upper row in the picture above, will provide you with plastic city buildings that have 1, 2 or 3 spires and you want your fiefs to contain lots of spires. Note that the level 3 city card has a small mountain icon, which instructs you that it MUST be placed on a mountain space. The lower row in the picture are examples of cards providing flat cardboard buildings and can be placed to provide further unique resources to your fiefs. For example the left hand card lets us place the carrot token. We can place this on one of our bunnies on the board to allow that territory to provide us the carrot resource. The card on the right does the same thing but provides a wood resource. No square can contain more than one building.
 
-At the end of a round each fief will score its owner golden carrots (victory points) equal to the total number of spires on the plastic cities in the fief multiplied by the number of unique resources in that fief.
+At the end of a round each fief will score its owner golden carrots (victory points) equal to the total number of spires on the plastic cities in the fief, multiplied by the number of unique resources in that fief.
 
 So for example….
 
