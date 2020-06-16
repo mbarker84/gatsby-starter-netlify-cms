@@ -14,29 +14,27 @@ tags:
   - Rabbits
   - Area control
 ---
-
-
 A small bunny sits on his Grandpa's knee.
 
-*You helped settle our great Fiefdom didn’t you Grandpa Bunny?*
+*'You helped settle our great Fiefdom didn’t you Grandpa Bunny?'*
 
-*I did Billy. Believe it or not, we didn’t always live in these beautiful buildings and castles. I don’t even recall what we lived in before that.*
+*'I did Billy. Believe it or not, we didn’t always live in these beautiful buildings and castles. I don’t even recall what we lived in before that.'*
 
-*Warren?*
+*'Warren?'*
 
-*His memory’s worse than mine. We got to these lands the same time those red rabbits did. Twas a harsh first winter as we jostled for the best territories. I got hit by many a projectile.*
+*'His memory’s worse than mine. We got to these lands the same time those red rabbits did. Twas a harsh first winter as we jostled for the best territories. I got hit by many a projectile.'*
 
-*Snowball?*
+*'Snowball?'*
 
-*She was always out on her fishing boat so missed most of the conflict. But worse than those red rabbits was the agony of working out on the plains. Got bitten left, right and centre by God knows what.*
+*'She was always out on her fishing boat so missed most of the conflict. But worse than those red rabbits was the agony of working out on the plains. Got bitten left, right and centre by God knows what.'*
 
-*Bugs?*
+*'Bugs?'*
 
-*Nah, Bugs was too busy cultivating the carrot pastures. When I had a big dispute with the Mayoress over land ownership, he tried to hold me back.*
+*'Nah, Bugs was too busy cultivating the carrot pastures. When I had a big dispute with the Mayoress over land ownership, he tried to hold me back.'*
 
-*Thump ‘er?*
+*'Thump ‘er?'*
 
-*Yes. She died.*
+*'Yes. She died.'*
 
 ## Bunny Kingdom
 
