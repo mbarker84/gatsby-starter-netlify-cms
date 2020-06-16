@@ -92,7 +92,7 @@ My favourite thing about it is that every hand you pick up is like being offered
 
 ![](../img/photo-14-06-2020-16-21-00.jpg)
 
-A turn off for me with some pick-and-pass drafting games is that occurrences of hate drafting can start to creep in. Deliberately picking something that’s not necessarily good for you solely so your opponent can’t have it. But in this game it’s not as prevalent. You’ll find yourself passing the hand on to your opponent and saying “You are really gonna like one of those cards i’m passing on” like you’re doing them a big favour! And this happens time and again because there’s usually something that you’d rather have for yourself that’s infinitely more tempting than a territory square that your opponent needs.
+A turn off for me with some pick-and-pass drafting games is that occurrences of hate drafting can start to creep in. Deliberately picking something that’s not necessarily good for you solely so your opponent can’t have it. But in this game it’s not as prevalent. You’ll find yourself passing the hand on to your opponent and saying “You are really gonna like one of those cards i’m passing on” like you’re doing them a big favour! And this happens time and again because there’s usually something that you’d rather have for yourself that’s infinitely more tempting than swiping a territory square that your opponent needs.
 
 The other thing is drafting games don’t generally work well with two players. You often can’t help but hate draft and you’re also gonna keep seeing the same cards going back and forth. But Bunny Kingdom has 2 player rules that I enjoy, where each player has a hand of cards in reserve that cards are taken from and added to the real hands of cards meaning it stays fresh and interesting.
 
