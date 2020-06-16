@@ -11,8 +11,8 @@ featuredpost: false
 featuredimage: ../img/photo-14-06-2020-16-29-40.jpg
 tags:
   - Card drafting
-  - rabbits
-  - area control
+  - Rabbits
+  - Area control
 ---
 
 
