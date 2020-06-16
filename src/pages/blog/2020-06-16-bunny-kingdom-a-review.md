@@ -22,7 +22,7 @@ A small bunny sits on his Grandpa's knee.
 
 *'Warren?'*
 
-*'His memory’s worse than mine. We got to these lands the same time those red rabbits did. Twas a harsh first winter as we jostled for the best territories. I got hit by many a projectile.'*
+*'You can ask him, but his memory’s worse than mine. We got to these lands the same time those red rabbits did. Twas a harsh first winter as we jostled for the best territories. I got hit by many a projectile.'*
 
 *'Snowball?'*
 
